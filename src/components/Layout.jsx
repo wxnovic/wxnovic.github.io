@@ -1,19 +1,37 @@
+import { useDispatch } from "react-redux";
+import { toggleSidebar } from "../store/uiSlice";
+
 function Header() {
+  const dispatch = useDispatch();
+
   return (
     <>
       {/* 헤더 영역 */}
-      <header className="bg-white shadow-md">
-        <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <h1 className="text-2xl font-bold text-gray-800">My Awesome Blog</h1>
-          <ul className="flex gap-6 text-gray-600">
-            <li className="cursor-pointer hover:text-blue-600 transition-colors">
-              Home
+      <header className="bg-black border-b-4 border-green-700">
+        <nav className="container mx-auto px-4 py-4 flex items-center justify-between text-green-400 font-mono">
+          {/* 사이드바 토글 버튼 */}
+          <button
+            onClick={() => dispatch(toggleSidebar())}
+            className="p-2 bg-green-700 text-black rounded-sm focus:outline-none transition hover:scale-110"
+          >
+            <i className="bi bi-list"></i>
+          </button>
+
+          {/* 사이트 이름 */}
+          <h1 className="text-2xl font-bold tracking-widest ml-4">
+            AWESOME BLOG
+          </h1>
+
+          {/* 네비게이션 메뉴 */}
+          <ul className="flex gap-6 text-green-400">
+            <li className="cursor-pointer hover:text-green-600 transition-colors">
+              HOME
             </li>
-            <li className="cursor-pointer hover:text-blue-600 transition-colors">
-              About
+            <li className="cursor-pointer hover:text-green-600 transition-colors">
+              ABOUT
             </li>
-            <li className="cursor-pointer hover:text-blue-600 transition-colors">
-              Contact
+            <li className="cursor-pointer hover:text-green-600 transition-colors">
+              CONTACT
             </li>
           </ul>
         </nav>
@@ -26,10 +44,9 @@ function Footer() {
   return (
     <>
       {/* 푸터 영역 */}
-      <footer className="bg-white shadow-inner mt-auto">
-        <div className="container mx-auto px-4 py-4 text-center text-gray-500">
-          &copy; {new Date().getFullYear()} My Awesome Blog. All rights
-          reserved.
+      <footer className="bg-black border-t-4 border-green-700 mt-auto">
+        <div className="container mx-auto px-4 py-4 text-center text-green-400 font-mono text-sm">
+          &copy; {new Date().getFullYear()} AWESOME BLOG. ALL RIGHTS RESERVED.
         </div>
       </footer>
     </>
