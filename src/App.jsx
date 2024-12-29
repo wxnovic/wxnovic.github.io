@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Header, Footer } from "./components/Layout.jsx";
 import Sidebar from "./components/Sidebar.jsx";
 import Home from "./pages/Home.jsx";
+import Post from "./pages/Post.jsx";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Sidebar sidebarVisible={true}></Sidebar>
         <Routes>
           <Route path="/" element={<Home />}></Route>
+          <Route path="/post/:sulg" element={<Post />}></Route>
         </Routes>
         <Footer />
       </BrowserRouter>

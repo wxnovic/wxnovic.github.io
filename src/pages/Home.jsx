@@ -77,6 +77,86 @@ function Home() {
               </button>
             </div>
           </article>
+          {/* 게시글 카드 예시 3 */}
+          <article className="bg-black border-4 border-green-700 rounded-lg overflow-hidden shadow-lg transform hover:scale-105 transition-transform">
+            <img
+              src="https://images.unsplash.com/photo-1604147706284-8f1f3ac1a6fd"
+              alt="blog-post-3"
+              className="w-full h-40 object-cover border-b-4 border-green-700"
+            />
+            <div className="p-4">
+              <h3 className="text-xl font-bold tracking-wider mb-2">
+                BLOG POST TITLE 3
+              </h3>
+              <p className="text-green-300 mb-4">
+                Tailwind CSS를 활용하면, 디자인 시스템을 빠르게 구축할 수 있다는
+                점이 큰 장점이야.
+              </p>
+              <button className="px-4 py-2 bg-green-700 text-black rounded-md hover:bg-green-600 hover:text-black transition">
+                READ MORE
+              </button>
+            </div>
+          </article>
+          {/* 게시글 카드 예시 3 */}
+          <article className="bg-black border-4 border-green-700 rounded-lg overflow-hidden shadow-lg transform hover:scale-105 transition-transform">
+            <img
+              src="https://images.unsplash.com/photo-1604147706284-8f1f3ac1a6fd"
+              alt="blog-post-3"
+              className="w-full h-40 object-cover border-b-4 border-green-700"
+            />
+            <div className="p-4">
+              <h3 className="text-xl font-bold tracking-wider mb-2">
+                BLOG POST TITLE 3
+              </h3>
+              <p className="text-green-300 mb-4">
+                Tailwind CSS를 활용하면, 디자인 시스템을 빠르게 구축할 수 있다는
+                점이 큰 장점이야.
+              </p>
+              <button className="px-4 py-2 bg-green-700 text-black rounded-md hover:bg-green-600 hover:text-black transition">
+                READ MORE
+              </button>
+            </div>
+          </article>
+          {/* 게시글 카드 예시 3 */}
+          <article className="bg-black border-4 border-green-700 rounded-lg overflow-hidden shadow-lg transform hover:scale-105 transition-transform">
+            <img
+              src="https://images.unsplash.com/photo-1604147706284-8f1f3ac1a6fd"
+              alt="blog-post-3"
+              className="w-full h-40 object-cover border-b-4 border-green-700"
+            />
+            <div className="p-4">
+              <h3 className="text-xl font-bold tracking-wider mb-2">
+                BLOG POST TITLE 3
+              </h3>
+              <p className="text-green-300 mb-4">
+                Tailwind CSS를 활용하면, 디자인 시스템을 빠르게 구축할 수 있다는
+                점이 큰 장점이야.
+              </p>
+              <button className="px-4 py-2 bg-green-700 text-black rounded-md hover:bg-green-600 hover:text-black transition">
+                READ MORE
+              </button>
+            </div>
+          </article>
+          {/* 게시글 카드 예시 3 */}
+          <article className="bg-black border-4 border-green-700 rounded-lg overflow-hidden shadow-lg transform hover:scale-105 transition-transform">
+            <img
+              src="https://images.unsplash.com/photo-1604147706284-8f1f3ac1a6fd"
+              alt="blog-post-3"
+              className="w-full h-40 object-cover border-b-4 border-green-700"
+            />
+            <div className="p-4">
+              <h3 className="text-xl font-bold tracking-wider mb-2">
+                BLOG POST TITLE 3
+              </h3>
+              <p className="text-green-300 mb-4">
+                Tailwind CSS를 활용하면, 디자인 시스템을 빠르게 구축할 수 있다는
+                점이 큰 장점이야.
+              </p>
+              <button className="px-4 py-2 bg-green-700 text-black rounded-md hover:bg-green-600 hover:text-black transition">
+                READ MORE
+              </button>
+            </div>
+          </article>
         </section>
       </main>
     </>

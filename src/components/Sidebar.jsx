@@ -23,7 +23,7 @@ function Sidebar() {
 
         {/* 메뉴 아이템 */}
         <nav className="flex-grow">
-          <ul className="mt-4 space-y-4 px-4">
+          <ul className="mt-4 mb-4 space-y-4 px-4">
             <li>
               <a
                 href="#"
