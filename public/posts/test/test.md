@@ -18,7 +18,7 @@ updated_at: 2024-08-17 12:45:00
 
 저는 빌드 도구로 Vite를 사용할 예정입니다.
 
-아래 명령어를 통해 Vite 프로젝트를 생성해줍니다.
+아래 명령어를 통해 Vite 프로젝트를 생성해줍니다.ㅁ
 
 ``` bash
 npm create vite@latest my-blog
@@ -26,7 +26,7 @@ npm create vite@latest my-blog
 
 프레임워크와 언어를 아래 이미지와 같이 선택합니다.
 
-![Image1](/src/assets/images/posts/how-to-create-git-blog-1/how-to-create-git-blog-image-1.png)
+![Image1](/posts/test/test.jpg)
 
 ![Image2](/src/assets/images/posts/how-to-create-git-blog-1/how-to-create-git-blog-image-2.png)
 

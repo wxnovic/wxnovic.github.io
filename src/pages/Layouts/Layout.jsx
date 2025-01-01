@@ -1,5 +1,6 @@
 import { useDispatch } from "react-redux";
-import { toggleSidebar } from "../store/uiSlice";
+import { toggleSidebar } from "../../store/uiSlice";
+import { Link } from "react-router-dom";
 
 function Header() {
   const dispatch = useDispatch();
@@ -25,7 +26,7 @@ function Header() {
           {/* 사이트 이름 */}
           <div className="flex-1 text-center">
             <h1 className="text-2xl font-bold tracking-widest ml-4">
-              AWESOME BLOG
+              <Link to="/">AWESOME BLOG</Link>
             </h1>
           </div>
 

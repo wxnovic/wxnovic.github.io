@@ -4,14 +4,19 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host",
-    "build": "vite build",
-    "lint": "eslint .",
+    "dev": "vite",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "vite build --ssrManifest .vite/ssr-manifest.json --outDir dist/client",
+    "build:server": "vite build --ssr src/entry-server.jsx --outDir dist/server",
+    "build:server:noExternal": "vite build --config vite.config.noexternal.js --ssr src/entry-server.jsx --outDir dist/server",
+    "generate": "cross-env rm -rf dist ; vite build --ssrManifest .vite/ssr-manifest.json --outDir dist/client && npm run build:server && node prerender && node sitemap ; cp -r public/favicon dist/static/favicon",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "lint": "eslint . --fix --ignore-path .gitignore",
+    "deploy": "gh-pages -d dist/static"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
+    "axios": "^1.7.9",
     "bootstrap-icons": "^1.11.3",
     "gh-pages": "^6.2.0",
     "react": "^18.3.1",
@@ -29,6 +34,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
+    "fs-extra": "^11.2.0",
     "github-markdown-css": "^5.6.1",
     "globals": "^15.14.0",
     "gray-matter": "^4.0.3",
@@ -37,9 +43,12 @@
     "markdown-it-anchor": "^9.0.1",
     "markdown-it-highlightjs": "^4.1.0",
     "markdown-it-toc-done-right": "^4.2.0",
+    "path": "^0.12.7",
     "postcss": "^8.4.49",
     "react-router-dom": "^7.1.1",
     "tailwindcss": "^3.4.17",
-    "vite": "^6.0.5"
+    "vite": "^5.4.11",
+    "vite-plugin-node-polyfills": "^0.22.0",
+    "vite-raw-plugin": "^1.0.2"
   }
 }

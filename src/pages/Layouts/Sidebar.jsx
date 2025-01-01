@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import { toggleSidebar } from "../store/uiSlice";
+import { toggleSidebar } from "../../store/uiSlice";
 
 function Sidebar() {
   const sidebarVisible = useSelector((state) => state.ui.sidebarVisible);

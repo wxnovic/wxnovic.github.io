@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom";
+
 function Home() {
   return (
     <>
       {/* 메인 콘텐츠 영역 */}
-      <main className="flex-grow container mx-auto px-4 py-8 font-mono text-green-400 bg-black">
+      <div className="flex-grow container mx-auto px-4 py-8 font-mono text-green-400 bg-black">
         {/* Hero 섹션 */}
         <section className="mb-12 bg-black border-4 border-green-700 rounded-lg p-8 text-center shadow-lg">
           <h2 className="text-3xl font-bold tracking-widest mb-4">
@@ -31,7 +33,7 @@ function Home() {
                 CSS로 더욱 깔끔하고 빠르게 작업할 수 있어.
               </p>
               <button className="px-4 py-2 bg-green-700 text-black rounded-md hover:bg-green-600 hover:text-black transition">
-                READ MORE
+                <Link to="/post/test">READ MORE</Link>
               </button>
             </div>
           </article>
@@ -158,7 +160,7 @@ function Home() {
             </div>
           </article>
         </section>
-      </main>
+      </div>
     </>
   );
 }

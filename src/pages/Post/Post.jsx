@@ -1,5 +1,7 @@
-import "../styles/markdown.css";
+import "../../styles/markdown.css";
+import "highlight.js/styles/atom-one-dark.css"
 
+import axios from "axios";
 // Markdown Imports ----------------------------------*/
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
@@ -9,11 +11,42 @@ import hljs from "highlight.js";
 import matter from "gray-matter";
 import uslug from "uslug";
 /*----------------------------------------------------*/
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useParams } from "react-router-dom";
 
 function Post() {
+  const [content, setContent] = useState("");
+  const [toc, setToc] = useState("");
+  const [frontMatter, setFrontMatter] = useState({});
+  const params = useParams()
 
-  console.log("TEST");
+  useEffect(() => {
+    // 마크다운 파일 읽어오기
+    const fetchMarkdown = async () => {
+      try {
+        console.log(import.meta.env.MODE);
+        let mdPath = "";
+        if (import.meta.env.MODE == "development") {
+          mdPath = `/posts/${params.slug}/`;
+        } else if (import.meta.env.MODE == "production") {
+          mdPath =
+            `https://raw.githubusercontent.com/wxnovic/wxnovic.github.io/refs/heads/gh-pages/posts/${params.slug}/`;
+        }
+
+        const response = await axios.get(`${mdPath}${params.slug}.md`);
+        const { data } = response;
+        const { content, data: frontMatter } = await matter(data);
+
+        setContent(md.render(content));
+        setFrontMatter(frontMatter);
+      } catch (error) {
+        console.error("Error fetching markdown:", error);
+      }
+    };
+
+    fetchMarkdown();
+  }, []);
+
   const md = markdownIt({
     html: true,
   })
@@ -30,7 +63,7 @@ function Post() {
       callback: (html, ast) => {
         let toc = generateToc(ast);
         toc = `<nav>${toc}</nav>`;
-        this.toc = toc;
+        setToc(toc);
       },
     })
     .use(markdownItHighlightJS, {
@@ -69,17 +102,21 @@ function Post() {
   return (
     <>
       {/* 메인 콘텐츠 영역 */}
-      <main className="flex-grow container mx-auto px-4 py-8 font-mono text-green-400 bg-black">
+      <main className="flex-grow container w-11/12 mx-auto px-4 py-8 font-mono text-green-400 bg-black">
         {/* Hero 섹션 */}
         <section className="mb-12 bg-black border-4 border-green-700 rounded-lg p-8 text-center shadow-lg">
-          <h2 className="text-3xl font-bold tracking-widest mb-4">
-            WELCOME TO MY BLOG
+          <h2 className="text-2xl font-bold tracking-widest mb-4">
+            {frontMatter.title}
           </h2>
-          <p className="text-lg">
-            멋진 아이디어와 유익한 정보를 공유하는 공간입니다.
-          </p>
+          <p className="text-xl">{frontMatter.description}</p>
         </section>
-        <div className="markdown-body"></div>
+        <div className="flex">
+          <div
+            className="markdown-body w-10/12 border-4 border-green-700 rounded-lg p-4"
+            dangerouslySetInnerHTML={{ __html: content }}
+          ></div>
+          <div className="" dangerouslySetInnerHTML={{ __html: toc }}></div>
+        </div>
       </main>
     </>
   );
