@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[4547,[],"ClientSegmentRoot"]
+3:I[1581,["173","static/chunks/173-c4d1cb1ef98ad370.js","554","static/chunks/554-12cf779b55b96495.js","177","static/chunks/app/layout-3b9c880c575c077e.js"],"default"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/1c29980156a3eb9e.css","style"]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/8ec39089e5e47a00.css","style"]
+0:{"P":null,"b":"ZUkpWwqfmFrvqYDPD7c61","p":"","c":["","post","2025-01-12-01-what-is-the-chatgpt"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-12-01-what-is-the-chatgpt","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c29980156a3eb9e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@6"}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-12-01-what-is-the-chatgpt","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ec39089e5e47a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","8ek3z7WMx5OhYLEaQ16X1",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+6:{}
+f:T12a6,<h1 id="chatgpt란-무엇인가요" tabindex="-1">ChatGPT란 무엇인가요?</h1>
+<p>안녕하세요, 여러분. 오늘은 최신 AI 기술 중에서도 가장 주목받고 있는 <strong>ChatGPT</strong>에 대해 깊이 있는 이야기를 나눠보겠습니다. ChatGPT는 OpenAI에서 개발한 <strong>인공지능 언어 모델</strong>로, 사람처럼 자연스럽게 대화를 생성할 수 있는 기술입니다. 특히 GPT(Generative Pre-trained Transformer) 아키텍처를 기반으로 한 이 모델은, 다양한 분야에서 폭넓게 활용되며 혁신적인 변화를 이끌고 있습니다.</p>
+<hr>
+<h2 id="chatgpt의-특징과-장점" tabindex="-1">ChatGPT의 특징과 장점</h2>
+<h3 id="1-언어-이해-및-생성-능력" tabindex="-1">1. <strong>언어 이해 및 생성 능력</strong></h3>
+<p>ChatGPT는 단순한 텍스트 처리를 넘어, 사용자 의도를 파악하고 상황에 맞는 적절한 답변을 생성할 수 있습니다. 이 능력 덕분에 문서 작성, 번역, 데이터 요약 등 전문 작업에서도 뛰어난 성능을 발휘합니다.</p>
+<h3 id="2-다양한-활용-사례" tabindex="-1">2. <strong>다양한 활용 사례</strong></h3>
+<p>ChatGPT는 이미 많은 분야에서 활용되고 있습니다.</p>
+<ul>
+<li><strong>비즈니스</strong>: 고객 응대, 마케팅 콘텐츠 작성, 보고서 작성.</li>
+<li><strong>교육</strong>: 복잡한 개념 설명, 학습 자료 요약, 언어 학습 지원.</li>
+<li><strong>창작</strong>: 소설, 블로그, 광고 카피 작성 등 창의적 작업 지원.</li>
+</ul>
+<h3 id="3-맞춤형-대화-설계" tabindex="-1">3. <strong>맞춤형 대화 설계</strong></h3>
+<p>사용자가 입력한 맥락에 따라 개인화된 응답을 생성합니다. 이 덕분에 사용자와의 상호작용이 한층 더 자연스럽고 효과적입니다.</p>
+<hr>
+<h2 id="chatgpt는-어떻게-작동하나요" tabindex="-1">ChatGPT는 어떻게 작동하나요?</h2>
+<p>ChatGPT의 작동 원리를 간단히 설명드리겠습니다:</p>
+<h3 id="1-사전-학습pre-training" tabindex="-1"><strong>1. 사전 학습(Pre-training)</strong></h3>
+<p>인터넷에 공개된 방대한 양의 데이터를 활용해 언어 패턴과 문법을 학습합니다. 이 과정에서 AI는 문맥을 이해하고 문장을 완성하는 능력을 갖추게 됩니다.</p>
+<h3 id="2-미세-조정fine-tuning" tabindex="-1"><strong>2. 미세 조정(Fine-tuning)</strong></h3>
+<p>특정 작업에 적합하도록 정제된 데이터를 기반으로 세부적으로 조정됩니다. 이 과정에서는 AI가 더 정확하고 신뢰할 수 있는 답변을 제공하도록 개선됩니다.</p>
+<h3 id="3-실시간-입력-처리" tabindex="-1"><strong>3. 실시간 입력 처리</strong></h3>
+<p>사용자가 입력한 텍스트를 분석한 뒤, 가장 적합한 맥락과 정보를 바탕으로 응답을 생성합니다.</p>
+<hr>
+<h2 id="chatgpt의-한계" tabindex="-1">ChatGPT의 한계</h2>
+<p>기술적으로 완벽에 가까운 성능을 보여주지만, 몇 가지 제한점도 존재합니다:</p>
+<ol>
+<li><strong>정보의 정확성 부족</strong>: 데이터 출처에 따라 일부 답변이 부정확하거나 불완전할 수 있습니다.</li>
+<li><strong>윤리적 문제</strong>: 민감한 주제나 윤리적 문제에 대해선 제한적으로만 응답합니다.</li>
+<li><strong>창의성의 한계</strong>: 고도의 창의적 작업에서는 인간의 관점을 완전히 대체하지 못할 수 있습니다.</li>
+</ol>
+<hr>
+<h2 id="chatgpt를-잘-활용하는-방법" tabindex="-1">ChatGPT를 잘 활용하는 방법</h2>
+<p>ChatGPT는 그 자체로 강력하지만, 올바르게 활용해야 진가를 발휘할 수 있습니다.</p>
+<ol>
+<li><strong>구체적인 질문하기</strong>: 질문이 구체적일수록 명확한 답변을 얻을 수 있습니다.</li>
+<li><strong>정보 검증하기</strong>: 중요한 정보는 추가적인 검증 과정을 거쳐야 합니다.</li>
+<li><strong>목적에 맞게 활용하기</strong>: 비즈니스, 학습, 창작 등 목적에 따라 적절한 방식으로 활용하세요.</li>
+</ol>
+<hr>
+<h2 id="결론" tabindex="-1">결론</h2>
+<p>ChatGPT는 단순한 대화형 AI를 넘어, <strong>미래 디지털 환경을 선도하는 핵심 기술</strong>로 자리 잡고 있습니다. 개인부터 기업까지, 효율성과 창의성을 모두 충족시킬 수 있는 도구로 활용될 가능성이 무궁무진합니다.<br>
+여러분도 ChatGPT의 기능을 적극 활용해 생산성과 창의력을 한 단계 끌어올려 보세요. 😊</p>
+<p>궁금하신 점이나 더 알고 싶은 주제가 있다면 댓글로 남겨주세요. 전문가의 관점에서 명확하게 답변드리겠습니다!</p>
+7:["$","div",null,{"className":"flex flex-col items-center w-full min-h-screen bg-gray-950 rounded-xl p-6 transition-colors duration-300","children":[["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 mb-6 transition-colors duration-300","children":[["$","div",null,{"className":"text-center border-b border-gray-700 pb-4 mb-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-100","children":"ChatGPT란?"}],["$","p",null,{"className":"text-gray-400","children":"ChatGPT란 무엇인가?"}]]}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 gap-4 text-center","children":[["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Author"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"wxnovic"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Date"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"2025-01-12 00:00:00"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Category"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":[["$","$1","0",{"children":[["$","span",null,{"children":"AI"}],["$","i",null,{"className":"bi bi-arrow-right-short"}]]}],["$","$1","1",{"children":[["$","span",null,{"children":"ChatGPT"}],null]}]]}]]}]]}]]}],["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 transition-colors duration-300","children":["$","div",null,{"className":"markdown-body text-gray-100","dangerouslySetInnerHTML":{"__html":"$f"}}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"ChatGPT란?"}],["$","meta","2",{"name":"description","content":"ChatGPT란 무엇인가?"}],["$","meta","3",{"name":"author","content":"wxnovic"}],["$","meta","4",{"property":"og:title","content":"ChatGPT란?"}],["$","meta","5",{"property":"og:description","content":"ChatGPT란 무엇인가?"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-01-12 00:00:00"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"ChatGPT란?"}],["$","meta","10",{"name":"twitter:description","content":"ChatGPT란 무엇인가?"}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null

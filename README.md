@@ -1,2 +1,0 @@
-# wxnovic.github.io
-blog

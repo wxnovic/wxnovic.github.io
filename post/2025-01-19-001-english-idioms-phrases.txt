@@ -1,0 +1,736 @@
+1:"$Sreact.fragment"
+2:I[4547,[],"ClientSegmentRoot"]
+3:I[1581,["173","static/chunks/173-c4d1cb1ef98ad370.js","554","static/chunks/554-12cf779b55b96495.js","177","static/chunks/app/layout-3b9c880c575c077e.js"],"default"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/1c29980156a3eb9e.css","style"]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/8ec39089e5e47a00.css","style"]
+0:{"P":null,"b":"ZUkpWwqfmFrvqYDPD7c61","p":"","c":["","post","2025-01-19-001-english-idioms-phrases"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-19-001-english-idioms-phrases","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c29980156a3eb9e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@6"}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-19-001-english-idioms-phrases","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ec39089e5e47a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","wZ9RGdvNOC6XmNDfH-BKg",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+6:{}
+f:T5b7d,<h1 id="영어에서-자주-쓰이는-숙어와-표현-총정리" tabindex="-1">영어에서 자주 쓰이는 숙어와 표현 총정리</h1>
+<p>영어 학습을 하다 보면, 문법과 어휘만으로는 채워지지 않는 **‘자연스러운 표현력’**에 대한 갈증이 생깁니다.</p>
+<p>많은 학습자들이 경험하는 이 고민은 대개 **숙어(idioms)**와 **자주 쓰이는 표현(콜로케이션, 관용구)**을 부족하게 익히는 데서 비롯되곤 합니다.</p>
+<p>이번 글에서는 실제 회화나 글쓰기에서 자주 활용되고, <strong>원어민 뉘앙스</strong>가 듬뿍 담긴 다양한 숙어와 표현을 정리했습니다.<br>
+길이와 난이도는 다소 폭넓게 준비했으니, 본인의 학습 목표에 맞춰 골라 익혀 보세요.</p>
+<hr>
+<h2 id="목차" tabindex="-1">목차</h2>
+<ul>
+<li><a href="#%EC%98%81%EC%96%B4%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-%EC%88%99%EC%96%B4%EC%99%80-%ED%91%9C%ED%98%84-%EC%B4%9D%EC%A0%95%EB%A6%AC">영어에서 자주 쓰이는 숙어와 표현 총정리</a>
+<ul>
+<li><a href="#%EB%AA%A9%EC%B0%A8">목차</a></li>
+<li><a href="#%EC%9D%BC%EC%83%81%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-%EC%88%99%EC%96%B4">일상에서 자주 쓰이는 숙어</a></li>
+<li><a href="#%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-%EC%BD%9C%EB%A1%9C%EC%BC%80%EC%9D%B4%EC%85%98">자주 쓰이는 콜로케이션</a></li>
+<li><a href="#%EC%B6%94%EA%B0%80%EB%A1%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B3%A0%EA%B8%89-%EC%88%99%EC%96%B4">추가로 알아두면 좋은 고급 숙어</a></li>
+<li><a href="#%ED%95%99%EC%8A%B5-%EB%B0%8F-%ED%99%9C%EC%9A%A9-%ED%8C%81">학습 및 활용 팁</a></li>
+<li><a href="#%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C">참고 자료</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="일상에서-자주-쓰이는-숙어" tabindex="-1">일상에서 자주 쓰이는 숙어</h2>
+<p>아래 표현들은 원어민들이 가벼운 대화부터 TV 쇼, 드라마, 영화 등에서 쉽게 접할 수 있는 숙어들입니다. 뜻만 외우기보다는 예문까지 함께 살펴보면 훨씬 기억에 오래 남습니다.</p>
+<ol>
+<li>
+<p><strong>a piece of cake</strong></p>
+<ul>
+<li><strong>뜻</strong>: 아주 쉬운 일</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Don’t worry about the test. It’ll be a piece of cake!<br>
+<em>(시험 걱정 마. 아주 쉬울 거야!)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>hit the sack / hit the hay</strong></p>
+<ul>
+<li><strong>뜻</strong>: 잠자리에 들다, 자러 가다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I’m really tired, so I’m going to hit the sack early tonight.<br>
+<em>(너무 피곤해서 오늘은 일찍 자러 갈 거야.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>break a leg</strong></p>
+<ul>
+<li><strong>뜻</strong>: (공연·시험 등) 잘하길 바라며 행운을 빌다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>You have a big performance tonight, right? Break a leg!<br>
+<em>(오늘 밤 큰 공연 있지? 잘하고 와!)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>under the weather</strong></p>
+<ul>
+<li><strong>뜻</strong>: 몸 상태가 좋지 않은, 기분이 꿀꿀한</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I’ve been feeling under the weather lately.<br>
+<em>(요즘 몸 상태가 좀 안 좋은 것 같아.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>once in a blue moon</strong></p>
+<ul>
+<li><strong>뜻</strong>: 매우 드물게</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We only go to fancy restaurants once in a blue moon.<br>
+<em>(우리는 특별한 레스토랑에 정말 드물게 가는 편이야.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>over the moon</strong></p>
+<ul>
+<li><strong>뜻</strong>: 너무나 기쁜, 황홀한 기분인</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>She was over the moon when she got the promotion.<br>
+<em>(그녀는 승진 소식을 듣고 너무 기뻐 날아갈 듯했어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>spill the beans</strong></p>
+<ul>
+<li><strong>뜻</strong>: 비밀을 누설하다, 털어놓다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I was planning a surprise party, but he spilled the beans.<br>
+<em>(깜짝 파티 준비 중이었는데, 그가 그만 비밀을 발설해버렸어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>bite off more than one can chew</strong></p>
+<ul>
+<li><strong>뜻</strong>: 감당하기 힘든 일을 벌이다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He tried to manage three projects at once and clearly bit off more than he could chew.<br>
+<em>(한꺼번에 세 프로젝트를 맡으려다가 역량 밖의 일을 맡아버렸어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>beat around the bush</strong></p>
+<ul>
+<li><strong>뜻</strong>: 빙빙 둘러 말하다, 요점을 피하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Stop beating around the bush and tell me exactly what happened.<br>
+<em>(빙빙 돌리지 말고 무슨 일이 있었는지 딱 말해줘.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>cost an arm and a leg</strong></p>
+<ul>
+<li><strong>뜻</strong>: 엄청나게 비싸다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>The new smartphone costs an arm and a leg.<br>
+<em>(그 새로운 스마트폰 정말 터무니없이 비싸.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>go the extra mile</strong></p>
+<ul>
+<li><strong>뜻</strong>: 한층 더 노력하다, 열과 성을 다하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>She’s always willing to go the extra mile for her clients.<br>
+<em>(그녀는 고객을 위해 항상 한 발 더 나아가 노력해줘.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>hit the nail on the head</strong></p>
+<ul>
+<li><strong>뜻</strong>: 핵심을 정확히 짚다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Your comment really hit the nail on the head.<br>
+<em>(네 말이 딱 핵심을 찔렀어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>call it a day</strong></p>
+<ul>
+<li><strong>뜻</strong>: 하던 일을 그만하고 하루 일과를 마치다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We’ve done enough for now. Let’s call it a day.<br>
+<em>(오늘은 여기까지 하고 마치자.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>cut corners</strong></p>
+<ul>
+<li><strong>뜻</strong>: (품질·절차를 희생하며) 손쉽게 하다, 편법을 쓰다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>If you cut corners on safety, it could lead to major problems.<br>
+<em>(안전 문제를 대충 처리하면 큰 문제가 생길 수 있어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>pull someone’s leg</strong></p>
+<ul>
+<li><strong>뜻</strong>: 놀리다, 장난치다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Don’t take him seriously; he’s just pulling your leg.<br>
+<em>(그 말 심각하게 듣지 마. 그냥 장난치는 거야.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>see eye to eye</strong></p>
+<ul>
+<li><strong>뜻</strong>: 의견이 일치하다, 동의하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We rarely see eye to eye on politics.<br>
+<em>(우리는 정치 얘기만 나오면 좀처럼 의견이 일치하지 않아.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>get cold feet</strong></p>
+<ul>
+<li><strong>뜻</strong>: (중요한 순간에) 초조해지다, 두려워지다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He got cold feet right before the wedding.<br>
+<em>(결혼식 직전에 겁이 덜컥 났나 봐.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>in hot water</strong></p>
+<ul>
+<li><strong>뜻</strong>: 곤란한 상황에 처하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He found himself in hot water after missing the deadline again.<br>
+<em>(마감 기한을 또 놓쳐서 곤란해졌어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>hit the road</strong></p>
+<ul>
+<li><strong>뜻</strong>: 출발하다, 여행길에 오르다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Let’s hit the road early to beat the traffic.<br>
+<em>(차가 막히기 전에 일찍 출발하자.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>sit on the fence</strong></p>
+<ul>
+<li><strong>뜻</strong>: 중립을 지키다, 결정하지 못하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He’s still sitting on the fence about whether to accept the offer.<br>
+<em>(그는 그 제안을 받아들일지 말지 아직 결정을 못 내린 상태야.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>play it by ear</strong></p>
+<ul>
+<li><strong>뜻</strong>: 즉흥적으로 하다, 상황을 봐서 결정하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We don’t have a set plan. Let’s just play it by ear.<br>
+<em>(딱히 정한 계획은 없으니, 그때그때 상황을 봐가며 하자.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>bark up the wrong tree</strong></p>
+<ul>
+<li><strong>뜻</strong>: 헛다리를 짚다, 잘못된 대상/문제에 집착하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>If you think I took your wallet, you’re barking up the wrong tree.<br>
+<em>(네 지갑을 내가 훔쳤다고 생각한다면, 너는 완전히 헛다리를 짚고 있는 거야.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>pull yourself together</strong></p>
+<ul>
+<li><strong>뜻</strong>: 정신을 차리다, 마음을 가다듬다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>You need to pull yourself together and focus on your exams.<br>
+<em>(지금은 정신 차리고 시험에 집중해야 해.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>cross one’s fingers</strong></p>
+<ul>
+<li><strong>뜻</strong>: 행운을 빌다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I’ll cross my fingers for you on your big presentation.<br>
+<em>(네 중요한 발표 잘 되길 진심으로 빌게.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>bend over backwards</strong></p>
+<ul>
+<li><strong>뜻</strong>: 무진 애를 쓰다, 최선을 다하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He bent over backwards to help me move to my new place.<br>
+<em>(그가 새 집으로 이사하는 데 정말 최선을 다해 도와줬어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="자주-쓰이는-콜로케이션" tabindex="-1">자주 쓰이는 콜로케이션</h2>
+<p>숙어만큼이나 중요한 것이 **콜로케이션(collocation)**입니다. 영어는 단어가 짝을 이뤄 자주 함께 쓰이는 경향이 강하므로, 이들을 통째로 외워 두면 자연스럽게 구사할 수 있습니다.</p>
+<ol>
+<li>
+<p><strong>take advantage of ~</strong></p>
+<ul>
+<li><strong>뜻</strong>: ~을 적극 활용하다, (부정적 맥락에선) 악용하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Don’t let them take advantage of your generosity.<br>
+<em>(네 너그러운 성격을 남들이 악용하지 못하게 하렴.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>make an effort</strong></p>
+<ul>
+<li><strong>뜻</strong>: 노력하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I’m trying to make an effort to read more books.<br>
+<em>(책을 더 많이 읽으려고 노력 중이야.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>catch one’s attention</strong></p>
+<ul>
+<li><strong>뜻</strong>: ~의 관심을 끌다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>This advertisement immediately caught my attention.<br>
+<em>(이 광고가 단번에 내 눈길을 사로잡았어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>take a risk</strong></p>
+<ul>
+<li><strong>뜻</strong>: 위험을 감수하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Sometimes, you have to take a risk to achieve great success.<br>
+<em>(때로는 큰 성취를 위해 위험을 감수해야 할 때도 있어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>turn a blind eye (to something)</strong></p>
+<ul>
+<li><strong>뜻</strong>: ~을 못 본 척하다, 묵인하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>The manager turned a blind eye to the employee’s misconduct.<br>
+<em>(관리자가 직원의 비행을 그냥 묵인해버렸어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>make sense</strong></p>
+<ul>
+<li><strong>뜻</strong>: 말이 되다, 이치에 맞다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>It makes sense to invest in better equipment for long-term benefits.<br>
+<em>(장기적인 이익을 위해 더 좋은 장비에 투자하는 게 말이 되지.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>pay attention (to something)</strong></p>
+<ul>
+<li><strong>뜻</strong>: 주의를 기울이다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Pay attention to the details in the contract before signing.<br>
+<em>(계약서에 서명하기 전에 세부사항에 주의를 기울이렴.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>break the ice</strong></p>
+<ul>
+<li><strong>뜻</strong>: 서먹한 분위기를 깨다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He told a funny story to break the ice at the gathering.<br>
+<em>(그가 모임에서 분위기를 풀기 위해 재미있는 이야기를 했어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>do one’s best</strong></p>
+<ul>
+<li><strong>뜻</strong>: 최선을 다하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I always do my best to meet my deadlines.<br>
+<em>(나는 마감 기한을 맞추기 위해 항상 최선을 다해.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>find fault with</strong></p>
+<ul>
+<li><strong>뜻</strong>: ~의 흠을 잡다, 비난하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He’s always finding fault with people’s work.<br>
+<em>(그 사람은 맨날 남의 일에서 트집만 잡아.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>keep in mind</strong></p>
+<ul>
+<li><strong>뜻</strong>: 명심하다, 기억해 두다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Keep in mind that we have limited time to finish this project.<br>
+<em>(이 프로젝트를 마무리할 시간이 제한적이라는 걸 명심해.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>lose track of</strong></p>
+<ul>
+<li><strong>뜻</strong>: ~을 놓치다, 잊다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I lost track of time while I was reading that novel.<br>
+<em>(그 소설을 읽다가 시간 가는 줄 몰랐어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>get rid of</strong></p>
+<ul>
+<li><strong>뜻</strong>: 제거하다, 없애다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We need to get rid of the old files that are no longer necessary.<br>
+<em>(더 이상 필요하지 않은 옛날 파일들을 정리해야 해.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>come up with</strong></p>
+<ul>
+<li><strong>뜻</strong>: (아이디어나 해결책을) 생각해내다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>She came up with a brilliant strategy for marketing.<br>
+<em>(그녀가 아주 기발한 마케팅 전략을 생각해냈어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>take charge of</strong></p>
+<ul>
+<li><strong>뜻</strong>: ~을 책임지다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I’ll take charge of the event planning.<br>
+<em>(내가 행사 기획을 맡을게.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>on purpose</strong></p>
+<ul>
+<li><strong>뜻</strong>: 고의로, 일부러</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He stepped on my foot, and I think he did it on purpose.<br>
+<em>(그가 내 발을 밟았는데, 일부러 그런 것 같아.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>by accident / by chance</strong></p>
+<ul>
+<li><strong>뜻</strong>: 우연히, 뜻하지 않게</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We met by chance at the bus stop.<br>
+<em>(버스 정류장에서 우연히 마주쳤어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>all of a sudden</strong></p>
+<ul>
+<li><strong>뜻</strong>: 갑자기</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>All of a sudden, the lights went out.<br>
+<em>(갑자기 불이 꺼졌어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>in vain</strong></p>
+<ul>
+<li><strong>뜻</strong>: 헛되이, 보람 없이</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>All our efforts were in vain because the event was canceled.<br>
+<em>(행사가 취소돼서 모든 노력이 헛수고가 되었어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>in person</strong></p>
+<ul>
+<li><strong>뜻</strong>: 직접(만나서), 실물로</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I’ve only spoken to him online; I’ve never met him in person.<br>
+<em>(온라인으로만 얘기했지, 실제로 만난 적은 없어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="추가로-알아두면-좋은-고급-숙어" tabindex="-1">추가로 알아두면 좋은 고급 숙어</h2>
+<p>아래 표현들은 조금 더 <strong>문학적인 느낌</strong>이거나 회화에서도 다소 <strong>풍부한 이미지를 살려 말할 때</strong> 쓰이는 숙어들입니다.</p>
+<ol>
+<li>
+<p><strong>turn over a new leaf</strong></p>
+<ul>
+<li><strong>뜻</strong>: 새 사람이 되다, 마음을 고쳐먹다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>After realizing his mistakes, he decided to turn over a new leaf.<br>
+<em>(실수를 깨닫고 나서 그는 새 사람처럼 다시 시작하기로 결심했어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>burn the midnight oil</strong></p>
+<ul>
+<li><strong>뜻</strong>: 밤늦게까지 열심히 공부하거나 일하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>I had to burn the midnight oil to get my project done on time.<br>
+<em>(기한 맞추려면 밤늦게까지 열심히 일해야 했어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>let the cat out of the bag</strong></p>
+<ul>
+<li><strong>뜻</strong>: 비밀을 실수로 누설하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>We were preparing a surprise, but Sarah let the cat out of the bag.<br>
+<em>(서프라이즈 이벤트 준비 중이었는데, 사라가 그만 비밀을 털어놨어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>pull one’s weight</strong></p>
+<ul>
+<li><strong>뜻</strong>: 자기 몫을 다하다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Everyone on the team needs to pull their weight to succeed.<br>
+<em>(팀 전체가 각자 몫을 다해야 성공할 수 있어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>hit the jackpot</strong></p>
+<ul>
+<li><strong>뜻</strong>: 큰 성공을 거두다, 대박을 터뜨리다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>He hit the jackpot with his new startup.<br>
+<em>(새 창업으로 그는 완전 대박을 쳤어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>sit tight</strong></p>
+<ul>
+<li><strong>뜻</strong>: 잠자코 기다리다, 상황을 지켜보다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>The boss said we should sit tight until he finalizes the plan.<br>
+<em>(사장님이 계획 확정될 때까지 기다려보라고 하셨어.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>off the top of one’s head</strong></p>
+<ul>
+<li><strong>뜻</strong>: 즉석에서, 당장 떠오르는 대로</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Off the top of my head, I’d guess we have about 50 members.<br>
+<em>(지금 당장 떠오르는 걸로는 멤버가 50명쯤 되는 것 같아.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>put oneself in someone’s shoes</strong></p>
+<ul>
+<li><strong>뜻</strong>: 상대방 입장이 되어 생각해보다</li>
+<li><strong>예문</strong>:
+<blockquote>
+<p>Try to put yourself in her shoes before you judge her decision.<br>
+<em>(그녀가 왜 그런 결정을 했는지, 먼저 그 입장에서 생각해봐.)</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="학습-및-활용-팁" tabindex="-1">학습 및 활용 팁</h2>
+<ol>
+<li>
+<p><strong>맥락을 함께 익히기</strong></p>
+<ul>
+<li>숙어나 표현을 단순히 뜻만 외우면 금세 잊어버릴 수 있습니다. <strong>예문을 직접 만들어 보거나</strong>, 일기·SNS 글 작성 시 일부러 활용해 보면 더욱 자연스러워집니다.</li>
+</ul>
+</li>
+<li>
+<p><strong>이미지화해서 기억하기</strong></p>
+<ul>
+<li>예를 들어, “spill the beans”는 콩을 쏟는 장면을 상상해 보세요. 무심코 말해서 <strong>비밀이 와르르 새어 나가는</strong> 모습을 떠올리면 기억이 더 잘 납니다.</li>
+</ul>
+</li>
+<li>
+<p><strong>비슷한 의미끼리 그룹 짓기</strong></p>
+<ul>
+<li>예) “행운 빌기” 표현: <em>cross one’s fingers</em>, <em>break a leg</em></li>
+<li>예) “큰 노력을 기울이다” 표현: <em>go the extra mile</em>, <em>bend over backwards</em>, <em>burn the midnight oil</em><br>
+비슷한 카테고리별로 묶어 두면 학습 속도가 빨라집니다.</li>
+</ul>
+</li>
+<li>
+<p><strong>원어민 회화·영상 자료로 보강</strong></p>
+<ul>
+<li>미드, 유튜브 인터뷰, 영화 속 대사를 들어볼 때 이 숙어들이 실제로 어떻게 쓰이는지 확인하는 것이 좋습니다.</li>
+<li>한 번 제대로 귀에 들어오면, 그 후로 기억에서 쉽게 사라지지 않죠.</li>
+</ul>
+</li>
+<li>
+<p><strong>부정확한 맥락 주의</strong></p>
+<ul>
+<li>“break a leg”은 주로 공연, 시험, 발표 등에서만 쓰며, 일반적인 ‘행운 빌기’에는 어울리지 않을 수 있습니다.</li>
+<li>단어와 상황의 적절성을 판단하며 사용해야, 어색하거나 오해를 부를 일이 없습니다.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="참고-자료" tabindex="-1">참고 자료</h2>
+<ul>
+<li><strong>Cowie, A. P., &amp; Mackin, R. (1993).</strong> <em>Oxford Dictionary of English Idioms</em>. Oxford University Press.</li>
+<li><strong>Longman (1998).</strong> <em>Longman Idioms Dictionary</em>. Pearson Education.</li>
+<li><strong>Davies, M. (2010).</strong> <em>The Corpus of Contemporary American English (COCA)</em>.</li>
+<li><strong>Leech, G. (2006).</strong> <em>A Glossary of English Grammar</em>. Edinburgh University Press.</li>
+</ul>
+<p>우리가 어휘를 확장할 때, 단어의 뜻과 사용법을 익히는 것만큼 <strong>문맥과 뉘앙스</strong>가 중요합니다. 이 글에 소개된 숙어와 표현들을 통째로 외우기보다는, <strong>자신이 직접 구사해 볼 수 있는 상황</strong>을 떠올려가며 차곡차곡 내 것으로 만들어 보세요.</p>
+<p>부디 이번 정리가 여러분의 영어 학습에 작은 도움이 되길 바랍니다!</p>
+7:["$","div",null,{"className":"flex flex-col items-center w-full min-h-screen bg-gray-950 rounded-xl p-6 transition-colors duration-300","children":[["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 mb-6 transition-colors duration-300","children":[["$","div",null,{"className":"text-center border-b border-gray-700 pb-4 mb-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-100","children":"영어에서 자주 쓰이는 숙어와 표현 총정리"}],["$","p",null,{"className":"text-gray-400","children":"유용한 영어 숙어(Idioms), 콜로케이션, 표현을 한 글에 정리했습니다."}]]}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 gap-4 text-center","children":[["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Author"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"wxnovic"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Date"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"2025-01-19 10:10:00"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Category"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":[["$","$1","0",{"children":[["$","span",null,{"children":"English"}],["$","i",null,{"className":"bi bi-arrow-right-short"}]]}],["$","$1","1",{"children":[["$","span",null,{"children":"Idioms"}],["$","i",null,{"className":"bi bi-arrow-right-short"}]]}],["$","$1","2",{"children":[["$","span",null,{"children":"Phrases"}],null]}]]}]]}]]}]]}],["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 transition-colors duration-300","children":["$","div",null,{"className":"markdown-body text-gray-100","dangerouslySetInnerHTML":{"__html":"$f"}}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"영어에서 자주 쓰이는 숙어와 표현 총정리"}],["$","meta","2",{"name":"description","content":"유용한 영어 숙어(Idioms), 콜로케이션, 표현을 한 글에 정리했습니다."}],["$","meta","3",{"name":"author","content":"wxnovic"}],["$","meta","4",{"property":"og:title","content":"영어에서 자주 쓰이는 숙어와 표현 총정리"}],["$","meta","5",{"property":"og:description","content":"유용한 영어 숙어(Idioms), 콜로케이션, 표현을 한 글에 정리했습니다."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-01-19 10:10:00"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"영어에서 자주 쓰이는 숙어와 표현 총정리"}],["$","meta","10",{"name":"twitter:description","content":"유용한 영어 숙어(Idioms), 콜로케이션, 표현을 한 글에 정리했습니다."}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null

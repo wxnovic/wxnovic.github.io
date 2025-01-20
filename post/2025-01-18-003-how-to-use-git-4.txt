@@ -1,0 +1,104 @@
+1:"$Sreact.fragment"
+2:I[4547,[],"ClientSegmentRoot"]
+3:I[1581,["173","static/chunks/173-c4d1cb1ef98ad370.js","554","static/chunks/554-12cf779b55b96495.js","177","static/chunks/app/layout-3b9c880c575c077e.js"],"default"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/1c29980156a3eb9e.css","style"]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/8ec39089e5e47a00.css","style"]
+0:{"P":null,"b":"ZUkpWwqfmFrvqYDPD7c61","p":"","c":["","post","2025-01-18-003-how-to-use-git-4"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-18-003-how-to-use-git-4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c29980156a3eb9e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@6"}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-18-003-how-to-use-git-4","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ec39089e5e47a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","WaKNg2dDd3gmnS8mfnMr6",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+6:{}
+f:T11b8,<h1 id="git-사용법-로그와-히스토리-관리-태그-사용법" tabindex="-1">Git 사용법: 로그와 히스토리 관리 &amp; 태그 사용법</h1>
+<h2 id="7-git-로그와-히스토리-관리" tabindex="-1">7. Git 로그와 히스토리 관리</h2>
+<p>Git은 파일 변경 이력을 철저히 관리합니다. 적절히 로그와 히스토리를 활용하면 특정 시점의 코드 상태를 이해하고, 문제 해결에 필요한 정보를 빠르게 찾을 수 있습니다.</p>
+<h3 id="커밋-히스토리-확인" tabindex="-1">커밋 히스토리 확인</h3>
+<p>Git의 모든 커밋 이력을 확인하려면 아래 명령어를 사용하세요.</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">log</span>
+</code></pre>
+<h4 id="옵션을-활용한-로그-출력" tabindex="-1">옵션을 활용한 로그 출력</h4>
+<ul>
+<li><strong>간단히 보기</strong>: 커밋 메시지와 ID를 한 줄로 표시.<pre><code class="hljs language-bash">git <span class="hljs-built_in">log</span> --oneline
+</code></pre>
+</li>
+<li><strong>그래프 형태로 보기</strong>: 브랜치와 병합 내역을 시각적으로 확인.<pre><code class="hljs language-bash">git <span class="hljs-built_in">log</span> --graph
+</code></pre>
+</li>
+<li><strong>특정 파일의 변경 기록 확인</strong>:<pre><code class="hljs language-bash">git <span class="hljs-built_in">log</span> -- &lt;파일명&gt;
+</code></pre>
+</li>
+</ul>
+<h3 id="특정-커밋-확인" tabindex="-1">특정 커밋 확인</h3>
+<p>특정 커밋의 상세 내용을 확인할 때는 아래 명령어를 사용합니다.</p>
+<pre><code class="hljs language-bash">git show &lt;커밋 ID&gt;
+</code></pre>
+<p>이 명령어는 해당 커밋에서 수정된 파일과 변경 내용을 보여줍니다.</p>
+<hr>
+<h2 id="8-git-태그-사용법" tabindex="-1">8. Git 태그 사용법</h2>
+<p>태그(Tag)는 프로젝트에서 특정 시점을 표시하거나, 중요한 상태(예: 릴리스 버전)를 기록할 때 유용합니다. 일반적으로 소프트웨어 버전 관리에 많이 사용됩니다.</p>
+<h3 id="태그의-종류" tabindex="-1">태그의 종류</h3>
+<ol>
+<li><strong>Annotated Tag (주석 태그)</strong>: 메타데이터와 서명을 포함하여 저장.</li>
+<li><strong>Lightweight Tag (경량 태그)</strong>: 단순히 커밋을 가리키는 포인터 역할.</li>
+</ol>
+<h3 id="태그-생성" tabindex="-1">태그 생성</h3>
+<ul>
+<li>
+<p><strong>Annotated Tag 생성</strong>:</p>
+<pre><code class="hljs language-bash">git tag -a &lt;태그명&gt; -m <span class="hljs-string">&quot;태그 설명&quot;</span>
+</code></pre>
+<p>예시:</p>
+<pre><code class="hljs language-bash">git tag -a v1.0 -m <span class="hljs-string">&quot;첫 번째 릴리스&quot;</span>
+</code></pre>
+</li>
+<li>
+<p><strong>Lightweight Tag 생성</strong>:</p>
+<pre><code class="hljs language-bash">git tag &lt;태그명&gt;
+</code></pre>
+<p>예시:</p>
+<pre><code class="hljs language-bash">git tag v1.0
+</code></pre>
+</li>
+</ul>
+<h3 id="태그-확인" tabindex="-1">태그 확인</h3>
+<p>저장소의 모든 태그를 나열합니다.</p>
+<pre><code class="hljs language-bash">git tag
+</code></pre>
+<h3 id="태그-푸시" tabindex="-1">태그 푸시</h3>
+<p>원격 저장소에 태그를 푸시하려면 아래 명령어를 사용합니다.</p>
+<pre><code class="hljs language-bash">git push origin &lt;태그명&gt;
+</code></pre>
+<p>모든 태그를 푸시하려면:</p>
+<pre><code class="hljs language-bash">git push origin --tags
+</code></pre>
+<h3 id="태그-삭제" tabindex="-1">태그 삭제</h3>
+<ul>
+<li>
+<p><strong>로컬 태그 삭제</strong>:</p>
+<pre><code class="hljs language-bash">git tag -d &lt;태그명&gt;
+</code></pre>
+</li>
+<li>
+<p><strong>원격 태그 삭제</strong>:</p>
+<pre><code class="hljs language-bash">git push origin --delete &lt;태그명&gt;
+</code></pre>
+</li>
+</ul>
+<hr>
+<h2 id="마무리" tabindex="-1">마무리</h2>
+<p>Git의 <strong>로그와 히스토리 관리</strong>를 활용하면 프로젝트의 전체 흐름을 정확히 이해할 수 있고, <strong>태그</strong>를 적절히 사용하면 중요한 시점을 명확히 관리할 수 있습니다. 특히 팀 협업 환경에서는 이러한 기능이 코드 안정성과 효율성을 높이는 데 큰 기여를 합니다. 🎯</p>
+<hr>
+<blockquote>
+<p><strong>참고자료</strong></p>
+<ul>
+<li>Chacon, S., &amp; Straub, B. (2014). <em>Pro Git</em>. Apress.</li>
+<li>Git 공식 문서: https://git-scm.com/doc</li>
+</ul>
+</blockquote>
+7:["$","div",null,{"className":"flex flex-col items-center w-full min-h-screen bg-gray-950 rounded-xl p-6 transition-colors duration-300","children":[["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 mb-6 transition-colors duration-300","children":[["$","div",null,{"className":"text-center border-b border-gray-700 pb-4 mb-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-100","children":"#4 Git 사용법: 로그와 히스토리 관리 & 태그 사용법"}],["$","p",null,{"className":"text-gray-400","children":"Git 사용법에 대해 학습합니다. Git 히스토리 관리 및 태그 사용법에 대해 설명합니다."}]]}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 gap-4 text-center","children":[["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Author"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"wxnovic"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Date"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"2025-01-18 11:42:00"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Category"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":[["$","$1","0",{"children":[["$","span",null,{"children":"Git"}],null]}]]}]]}]]}]]}],["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 transition-colors duration-300","children":["$","div",null,{"className":"markdown-body text-gray-100","dangerouslySetInnerHTML":{"__html":"$f"}}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"#4 Git 사용법: 로그와 히스토리 관리 & 태그 사용법"}],["$","meta","2",{"name":"description","content":"Git 사용법에 대해 학습합니다. Git 히스토리 관리 및 태그 사용법에 대해 설명합니다."}],["$","meta","3",{"name":"author","content":"wxnovic"}],["$","meta","4",{"property":"og:title","content":"#4 Git 사용법: 로그와 히스토리 관리 & 태그 사용법"}],["$","meta","5",{"property":"og:description","content":"Git 사용법에 대해 학습합니다. Git 히스토리 관리 및 태그 사용법에 대해 설명합니다."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-01-18 11:42:00"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"#4 Git 사용법: 로그와 히스토리 관리 & 태그 사용법"}],["$","meta","10",{"name":"twitter:description","content":"Git 사용법에 대해 학습합니다. Git 히스토리 관리 및 태그 사용법에 대해 설명합니다."}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null

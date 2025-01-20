@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[4547,[],"ClientSegmentRoot"]
+3:I[1581,["173","static/chunks/173-c4d1cb1ef98ad370.js","554","static/chunks/554-12cf779b55b96495.js","177","static/chunks/app/layout-3b9c880c575c077e.js"],"default"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/1c29980156a3eb9e.css","style"]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/8ec39089e5e47a00.css","style"]
+0:{"P":null,"b":"ZUkpWwqfmFrvqYDPD7c61","p":"","c":["","post","2025-01-18-002-how-to-use-git-3"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-18-002-how-to-use-git-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c29980156a3eb9e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@6"}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-18-002-how-to-use-git-3","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ec39089e5e47a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","zjSYkF-cYjhphSAPIqAXq",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+6:{}
+f:T107b,<h1 id="git-사용법-원격-저장소-연결-워크플로우" tabindex="-1">Git 사용법: 원격 저장소 연결 &amp; 워크플로우</h1>
+<h2 id="5-원격-저장소-연결" tabindex="-1">5. 원격 저장소 연결</h2>
+<p>원격 저장소(Remote Repository)는 GitHub, GitLab 등과 같은 플랫폼에서 호스팅되는 저장소입니다. 원격 저장소를 활용하면 다른 사람과 협업하거나 데이터를 백업할 수 있습니다.</p>
+<h3 id="원격-저장소-추가" tabindex="-1">원격 저장소 추가</h3>
+<p>원격 저장소 URL을 추가합니다.</p>
+<pre><code class="hljs language-bash">git remote add origin &lt;원격 저장소 URL&gt;
+</code></pre>
+<p>예시:</p>
+<pre><code class="hljs language-bash">git remote add origin https://github.com/username/repository.git
+</code></pre>
+<h3 id="원격-저장소-확인" tabindex="-1">원격 저장소 확인</h3>
+<p>현재 연결된 원격 저장소 목록을 확인합니다.</p>
+<pre><code class="hljs language-bash">git remote -v
+</code></pre>
+<h3 id="변경-사항-푸시" tabindex="-1">변경 사항 푸시</h3>
+<p>로컬 저장소의 변경 사항을 원격 저장소로 보냅니다.</p>
+<pre><code class="hljs language-bash">git push -u origin &lt;브랜치명&gt;
+</code></pre>
+<p>예시:</p>
+<pre><code class="hljs language-bash">git push -u origin main
+</code></pre>
+<h3 id="변경-사항-가져오기" tabindex="-1">변경 사항 가져오기</h3>
+<p>원격 저장소의 최신 변경 사항을 로컬 저장소로 가져옵니다.</p>
+<pre><code class="hljs language-bash">git pull origin &lt;브랜치명&gt;
+</code></pre>
+<h3 id="저장소-클론" tabindex="-1">저장소 클론</h3>
+<p>원격 저장소를 복제합니다.</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> &lt;원격 저장소 URL&gt;
+</code></pre>
+<p>예시:</p>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/username/repository.git
+</code></pre>
+<hr>
+<h2 id="6-git-워크플로우" tabindex="-1">6. Git 워크플로우</h2>
+<p>Git 워크플로우는 팀이나 개인이 Git을 사용하는 방식을 정의한 것입니다. 올바른 워크플로우를 선택하면 효율적인 협업이 가능합니다.</p>
+<h3 id="기본-워크플로우" tabindex="-1">기본 워크플로우</h3>
+<ol>
+<li>
+<p><strong>로컬에서 작업 시작</strong>:</p>
+<ul>
+<li>브랜치를 생성하고 전환:<pre><code class="hljs language-bash">git branch &lt;브랜치명&gt;
+git switch &lt;브랜치명&gt;
+</code></pre>
+</li>
+<li>파일 변경 후 스테이징:<pre><code class="hljs language-bash">git add .
+</code></pre>
+</li>
+<li>커밋:<pre><code class="hljs language-bash">git commit -m <span class="hljs-string">&quot;작업 내용&quot;</span>
+</code></pre>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>원격 저장소로 푸시</strong>:</p>
+<pre><code class="hljs language-bash">git push origin &lt;브랜치명&gt;
+</code></pre>
+</li>
+<li>
+<p><strong>변경 사항 병합</strong>:</p>
+<ul>
+<li>원격에서 Pull Request를 생성하거나, 로컬에서 브랜치를 병합:<pre><code class="hljs language-bash">git merge &lt;브랜치명&gt;
+</code></pre>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="주요-git-워크플로우" tabindex="-1">주요 Git 워크플로우</h3>
+<h4 id="1-feature-branch-workflow" tabindex="-1">1. <strong>Feature Branch Workflow</strong></h4>
+<ul>
+<li>새로운 기능을 작업할 때마다 별도의 브랜치를 생성하여 작업.</li>
+<li>병합 전에 코드 리뷰 수행.</li>
+</ul>
+<h4 id="2-gitflow-workflow" tabindex="-1">2. <strong>GitFlow Workflow</strong></h4>
+<ul>
+<li>브랜치를 <code>main</code>, <code>develop</code>으로 나누고, 기능 브랜치와 릴리스 브랜치를 추가로 사용.</li>
+<li>대규모 프로젝트에 적합.</li>
+</ul>
+<h4 id="3-forking-workflow" tabindex="-1">3. <strong>Forking Workflow</strong></h4>
+<ul>
+<li>원본 저장소를 포크한 뒤, 개인 저장소에서 작업 후 Pull Request를 통해 기여.</li>
+<li>오픈소스 프로젝트에서 주로 사용.</li>
+</ul>
+<hr>
+<p>Git의 워크플로우를 이해하고 활용하면 협업 및 작업 효율성이 크게 향상됩니다! 🎯</p>
+7:["$","div",null,{"className":"flex flex-col items-center w-full min-h-screen bg-gray-950 rounded-xl p-6 transition-colors duration-300","children":[["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 mb-6 transition-colors duration-300","children":[["$","div",null,{"className":"text-center border-b border-gray-700 pb-4 mb-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-100","children":"#3 Git 사용법: 원격 저장소 연결 & 워크플로우"}],["$","p",null,{"className":"text-gray-400","children":"Git 사용법에 대해 학습합니다. Git프로젝트를 원격저장소와 연결하는 방법과 과정에 대해 설명합니다."}]]}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 gap-4 text-center","children":[["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Author"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"wxnovic"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Date"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"2025-01-18 11:28:00"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Category"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":[["$","$1","0",{"children":[["$","span",null,{"children":"Git"}],null]}]]}]]}]]}]]}],["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 transition-colors duration-300","children":["$","div",null,{"className":"markdown-body text-gray-100","dangerouslySetInnerHTML":{"__html":"$f"}}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"#3 Git 사용법: 원격 저장소 연결 & 워크플로우"}],["$","meta","2",{"name":"description","content":"Git 사용법에 대해 학습합니다. Git프로젝트를 원격저장소와 연결하는 방법과 과정에 대해 설명합니다."}],["$","meta","3",{"name":"author","content":"wxnovic"}],["$","meta","4",{"property":"og:title","content":"#3 Git 사용법: 원격 저장소 연결 & 워크플로우"}],["$","meta","5",{"property":"og:description","content":"Git 사용법에 대해 학습합니다. Git프로젝트를 원격저장소와 연결하는 방법과 과정에 대해 설명합니다."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-01-18 11:28:00"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"#3 Git 사용법: 원격 저장소 연결 & 워크플로우"}],["$","meta","10",{"name":"twitter:description","content":"Git 사용법에 대해 학습합니다. Git프로젝트를 원격저장소와 연결하는 방법과 과정에 대해 설명합니다."}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null

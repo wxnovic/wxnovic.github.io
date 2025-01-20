@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+2:I[4547,[],"ClientSegmentRoot"]
+3:I[1581,["173","static/chunks/173-c4d1cb1ef98ad370.js","554","static/chunks/554-12cf779b55b96495.js","177","static/chunks/app/layout-3b9c880c575c077e.js"],"default"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/1c29980156a3eb9e.css","style"]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/8ec39089e5e47a00.css","style"]
+0:{"P":null,"b":"ZUkpWwqfmFrvqYDPD7c61","p":"","c":["","post","2025-01-17-001-how-to-use-git-1"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-17-001-how-to-use-git-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c29980156a3eb9e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@6"}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-17-001-how-to-use-git-1","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ec39089e5e47a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","jZsoIWcTRiuTIpuCfl6sd",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+6:{}
+f:Tbfa,<h1 id="git-사용법-git이란-무엇인가-설치-및-설정" tabindex="-1">Git 사용법: Git이란 무엇인가? &amp; 설치 및 설정</h1>
+<h2 id="1-git이란-무엇인가" tabindex="-1">1. Git이란 무엇인가?</h2>
+<p>Git은 <strong>분산 버전 관리 시스템</strong>으로, 소스 코드의 변경 이력을 관리하고 협업을 가능하게 하는 도구입니다.</p>
+<h3 id="git의-주요-특징" tabindex="-1">Git의 주요 특징</h3>
+<ul>
+<li><strong>분산형 구조</strong>: 중앙 서버 없이도 각 클라이언트가 전체 데이터를 관리.</li>
+<li><strong>효율성</strong>: 파일의 전체 스냅샷 대신 변경 사항만 저장.</li>
+<li><strong>신뢰성</strong>: SHA-1 해시를 사용해 데이터 무결성을 보장.</li>
+<li><strong>협업 지원</strong>: 여러 개발자가 동시에 작업 가능.</li>
+</ul>
+<h3 id="git의-장점" tabindex="-1">Git의 장점</h3>
+<ol>
+<li><strong>백업 기능</strong>: 작업 내역을 항상 저장소에 보관.</li>
+<li><strong>협업 강화</strong>: 브랜치를 통해 각자 독립적으로 작업 가능.</li>
+<li><strong>오픈소스</strong>: 무료로 사용 가능하며 커뮤니티가 활발.</li>
+</ol>
+<hr>
+<h2 id="2-git-설치-및-설정" tabindex="-1">2. Git 설치 및 설정</h2>
+<h3 id="git-설치" tabindex="-1">Git 설치</h3>
+<ul>
+<li>
+<p><strong>Windows</strong></p>
+<ol>
+<li><a href="https://git-scm.com">Git 공식 웹사이트</a>에서 설치 파일 다운로드.</li>
+<li>설치 중 기본 옵션 선택 추천.</li>
+<li>설치 완료 후 <code>Git Bash</code> 실행.</li>
+</ol>
+</li>
+<li>
+<p><strong>Mac</strong></p>
+<ol>
+<li>Homebrew로 설치:<pre><code class="hljs language-bash">brew install git
+</code></pre>
+</li>
+</ol>
+</li>
+<li>
+<p><strong>Linux</strong></p>
+<ol>
+<li>
+<p>Debian/Ubuntu:</p>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">sudo</span> apt update
+<span class="hljs-built_in">sudo</span> apt install git
+</code></pre>
+</li>
+<li>
+<p>CentOS/Fedora:</p>
+<pre><code class="hljs language-bash"><span class="hljs-built_in">sudo</span> dnf install git
+</code></pre>
+</li>
+</ol>
+</li>
+</ul>
+<h3 id="git-초기-설정" tabindex="-1">Git 초기 설정</h3>
+<p>Git 설치 후, 사용자 정보와 에디터를 설정합니다.</p>
+<ol>
+<li>
+<p>사용자 이름 설정:</p>
+<pre><code class="hljs language-bash">git config --global user.name <span class="hljs-string">&quot;사용자이름&quot;</span>
+</code></pre>
+</li>
+<li>
+<p>사용자 이메일 설정:</p>
+<pre><code class="hljs language-bash">git config --global user.email <span class="hljs-string">&quot;사용자이메일@example.com&quot;</span>
+</code></pre>
+</li>
+<li>
+<p>기본 에디터 설정 (예: VS Code):</p>
+<pre><code class="hljs language-bash">git config --global core.editor <span class="hljs-string">&quot;code --wait&quot;</span>
+</code></pre>
+</li>
+<li>
+<p>설정 확인:</p>
+<pre><code class="hljs language-bash">git config --list
+</code></pre>
+</li>
+</ol>
+<hr>
+<p>Git 명령어를 사용할 준비가 완료되었습니다! 😊</p>
+7:["$","div",null,{"className":"flex flex-col items-center w-full min-h-screen bg-gray-950 rounded-xl p-6 transition-colors duration-300","children":[["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 mb-6 transition-colors duration-300","children":[["$","div",null,{"className":"text-center border-b border-gray-700 pb-4 mb-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-100","children":"#1 Git 사용법: Git이란 무엇인가? & 설치 및 설정"}],["$","p",null,{"className":"text-gray-400","children":"Git 사용법에 대해 학습합니다. Git이란 무엇인지 개념과 설치 및 설정하는 방법에 대해 설명합니다."}]]}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 gap-4 text-center","children":[["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Author"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"wxnovic"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Date"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"2025-01-18 09:30:00"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Category"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":[["$","$1","0",{"children":[["$","span",null,{"children":"Git"}],null]}]]}]]}]]}]]}],["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 transition-colors duration-300","children":["$","div",null,{"className":"markdown-body text-gray-100","dangerouslySetInnerHTML":{"__html":"$f"}}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"#1 Git 사용법: Git이란 무엇인가? & 설치 및 설정"}],["$","meta","2",{"name":"description","content":"Git 사용법에 대해 학습합니다. Git이란 무엇인지 개념과 설치 및 설정하는 방법에 대해 설명합니다."}],["$","meta","3",{"name":"author","content":"wxnovic"}],["$","meta","4",{"property":"og:title","content":"#1 Git 사용법: Git이란 무엇인가? & 설치 및 설정"}],["$","meta","5",{"property":"og:description","content":"Git 사용법에 대해 학습합니다. Git이란 무엇인지 개념과 설치 및 설정하는 방법에 대해 설명합니다."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-01-18 09:30:00"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"#1 Git 사용법: Git이란 무엇인가? & 설치 및 설정"}],["$","meta","10",{"name":"twitter:description","content":"Git 사용법에 대해 학습합니다. Git이란 무엇인지 개념과 설치 및 설정하는 방법에 대해 설명합니다."}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null

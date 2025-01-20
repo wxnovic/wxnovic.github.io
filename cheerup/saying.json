@@ -1,0 +1,666 @@
+[
+  {
+    "author": "Socrates",
+    "quote": "너 자신을 알라."
+  },
+  {
+    "author": "Aristotle",
+    "quote": "우리는 반복적으로 행하는 것의 결과이다. 따라서 탁월함은 행동이 아니라 습관이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "너 자신을 바꾸지 않고 세상을 바꿀 수는 없다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "우리의 삶은 우리가 생각하는 대로 만들어진다."
+  },
+  {
+    "author": "William Shakespeare",
+    "quote": "스스로 진실하라. 그러면 다른 이들에게도 진실할 것이다."
+  },
+  {
+    "author": "Leo Tolstoy",
+    "quote": "행복은 내가 무엇을 갖느냐가 아니라, 내가 누구와 함께 있느냐에 달려 있다."
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "나 자신이 되는 것은 매우 어려운 일이다. 나를 다른 사람과 혼동하지 말아라."
+  },
+  {
+    "author": "Benjamin Franklin",
+    "quote": "시간은 돈이다."
+  },
+  {
+    "author": "Abraham Lincoln",
+    "quote": "대부분의 사람들은 행복하기로 결심한 만큼 행복하다."
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "quote": "네가 세상에서 보고 싶은 변화가 되어라."
+  },
+  {
+    "author": "Unknown",
+    "quote": "행복은 준비된 마음에서 온다."
+  },
+  {
+    "author": "Latin Proverb",
+    "quote": "강은 돌을 두려워하지 않고 흐른다."
+  },
+  {
+    "author": "Socrates",
+    "quote": "너 자신을 알라."
+  },
+  {
+    "author": "Aristotle",
+    "quote": "우리는 반복적으로 행하는 것의 결과이다. 따라서 탁월함은 행동이 아니라 습관이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "너 자신을 바꾸지 않고 세상을 바꿀 수는 없다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "우리의 삶은 우리가 생각하는 대로 만들어진다."
+  },
+  {
+    "author": "William Shakespeare",
+    "quote": "스스로 진실하라. 그러면 다른 이들에게도 진실할 것이다."
+  },
+  {
+    "author": "Leo Tolstoy",
+    "quote": "행복은 내가 무엇을 갖느냐가 아니라, 내가 누구와 함께 있느냐에 달려 있다."
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "나 자신이 되는 것은 매우 어려운 일이다. 나를 다른 사람과 혼동하지 말아라."
+  },
+  {
+    "author": "Benjamin Franklin",
+    "quote": "시간은 돈이다."
+  },
+  {
+    "author": "Abraham Lincoln",
+    "quote": "대부분의 사람들은 행복하기로 결심한 만큼 행복하다."
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "quote": "네가 세상에서 보고 싶은 변화가 되어라."
+  },
+  {
+    "author": "Unknown",
+    "quote": "행복은 준비된 마음에서 온다."
+  },
+  {
+    "author": "Latin Proverb",
+    "quote": "강은 돌을 두려워하지 않고 흐른다."
+  },
+  {
+    "author": "Albert Einstein",
+    "quote": "상상력은 지식보다 중요하다."
+  },
+  {
+    "author": "Rumi",
+    "quote": "어둠 속에서 빛을 찾아라. 그러면 너 자신이 빛이 될 것이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "천 리 길도 한 걸음부터 시작된다."
+  },
+  {
+    "author": "Unknown",
+    "quote": "작은 친절은 큰 영향을 미친다."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "가는 말이 고와야 오는 말이 곱다."
+  },
+  {
+    "author": "AI Wisdom",
+    "quote": "데이터는 나침반이다. 하지만 방향은 결국 네가 정한다."
+  },
+  {
+    "author": "Unknown",
+    "quote": "내일을 걱정하지 말아라. 오늘은 네가 어제 걱정했던 내일이다."
+  },
+  {
+    "author": "Plato",
+    "quote": "지혜로운 자는 말로 자신을 다스리고, 어리석은 자는 감정에 끌려간다."
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "너를 죽이지 못하는 것은 너를 더 강하게 만든다."
+  },
+  {
+    "author": "Unknown",
+    "quote": "오늘 걷지 않으면 내일 뛰어야 할 것이다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "행복으로 가는 길은 없으며, 행복이 길 그 자체이다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "완벽함은 불가능하다. 그러나 개선은 언제나 가능하다."
+  },
+  {
+    "author": "Korean Wisdom",
+    "quote": "바다는 스스로 채워지지 않는다. 물줄기가 모여 바다가 된다."
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "무엇을 두려워하든지, 그것을 행하라."
+  },
+  {
+    "author": "Eleanor Roosevelt",
+    "quote": "아무도 당신의 허락 없이 당신을 열등하게 만들 수 없다."
+  },
+  {
+    "author": "Leonardo da Vinci",
+    "quote": "단순함은 궁극의 정교함이다."
+  },
+  {
+    "author": "Winston Churchill",
+    "quote": "당신이 지옥을 지나고 있다면, 계속 나아가라."
+  },
+  {
+    "author": "Helen Keller",
+    "quote": "인생은 대담한 모험이거나 아무것도 아니다."
+  },
+  {
+    "author": "Theodore Roosevelt",
+    "quote": "가진 것을 최선을 다해 사용하라. 당신이 할 수 있는 모든 것을 하라."
+  },
+  {
+    "author": "Rumi",
+    "quote": "네가 찾는 것은 이미 너 안에 있다."
+  },
+  {
+    "author": "Dalai Lama",
+    "quote": "행복은 준비가 아니라, 현재의 삶에서 찾는 것이다."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "자신의 통제 밖에 있는 것에 대해 걱정하지 마라."
+  },
+  {
+    "author": "AI Wisdom",
+    "quote": "완벽한 해답은 없다. 그러나 올바른 질문은 언제나 존재한다."
+  },
+  {
+    "author": "Kahlil Gibran",
+    "quote": "어둠 속에서 빛을 찾으려면 먼저 빛이 되어야 한다."
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "가장 중요한 것은, 당신이 사랑하는 것을 찾는 것이다."
+  },
+  {
+    "author": "Albert Schweitzer",
+    "quote": "행복은 성공의 비결이 아니라, 성공은 행복의 비결이다."
+  },
+  {
+    "author": "Maya Angelou",
+    "quote": "무엇이든 시도하라. 실패해도 괜찮다."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "작은 물방울이 모여 강이 된다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "미래는 예측이 아니라 준비하는 자의 것이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "너의 인생은 너의 선택으로 이루어진다."
+  },
+  {
+    "author": "Hippocrates",
+    "quote": "자연은 스스로 치유하는 힘을 가지고 있다."
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "20년 후, 당신은 하지 않았던 것에 대해 더 후회할 것이다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "용기는 위기의 순간에 빛난다."
+  },
+  {
+    "author": "Korean Wisdom",
+    "quote": "높은 산도 낮은 길에서 시작된다."
+  },
+  {
+    "author": "Japanese Proverb",
+    "quote": "일곱 번 넘어져도 여덟 번 일어서라."
+  },
+  {
+    "author": "AI Insight",
+    "quote": "데이터는 변화를 위한 첫걸음이다."
+  },
+  {
+    "author": "J.R.R. Tolkien",
+    "quote": "길을 잃는 것이 길을 찾는 시작일 수도 있다."
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "삶을 사랑하라. 그것이 너의 힘이 될 것이다."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "너 자신이 통제할 수 없는 것에 대해 걱정하지 마라."
+  },
+  {
+    "author": "Seneca",
+    "quote": "행복은 준비된 영혼에만 온다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "아무리 멀리 있는 길도 한 걸음에서 시작된다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "당신의 마음은 당신의 가장 큰 힘이다."
+  },
+  {
+    "author": "Rumi",
+    "quote": "네 마음속의 불을 꺼트리지 마라."
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "성공은 자신을 믿는 데서 시작된다."
+  },
+  {
+    "author": "Leonardo da Vinci",
+    "quote": "무지로부터 자유로워지는 것이 진정한 학문이다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "모든 것은 마음에서 시작된다."
+  },
+  {
+    "author": "Albert Einstein",
+    "quote": "질문을 멈추지 않는 것이 진정한 천재의 비결이다."
+  },
+  {
+    "author": "Socrates",
+    "quote": "나는 내가 모른다는 것을 안다. 그래서 나는 현명하다."
+  },
+  {
+    "author": "Kahlil Gibran",
+    "quote": "삶은 네가 얼마나 깊이 사랑했는지에 달려 있다."
+  },
+  {
+    "author": "Helen Keller",
+    "quote": "희망은 어둠 속에서도 빛나는 빛이다."
+  },
+  {
+    "author": "Winston Churchill",
+    "quote": "용기란 두려움 속에서도 행동하는 것이다."
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "quote": "사랑은 세상에서 가장 강한 무기다."
+  },
+  {
+    "author": "Plato",
+    "quote": "지혜로운 자는 자신의 무지를 인정한다."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "가는 날이 장날이다."
+  },
+  {
+    "author": "Japanese Proverb",
+    "quote": "산이 높으면 골짜기도 깊다."
+  },
+  {
+    "author": "Chinese Proverb",
+    "quote": "한 나무는 숲을 만들지 못한다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "용기는 가장 아름다운 미덕이다."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "자신의 삶에 충실한 자는 불행하지 않다."
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "진실을 말하면 기억할 필요가 없다."
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "삶은 고난 속에서 피어나는 꽃이다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "학습은 변화의 첫걸음이다."
+  },
+  {
+    "author": "Dalai Lama",
+    "quote": "행복은 목적지가 아니라 여정이다."
+  },
+  {
+    "author": "Korean Wisdom",
+    "quote": "비 온 뒤 땅이 굳어진다."
+  },
+  {
+    "author": "Rumi",
+    "quote": "고통은 너를 깨우는 스승이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "배우고 때로 익히면 기쁘지 아니한가."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "자유는 스스로 통제하는 자에게 온다."
+  },
+  {
+    "author": "Walt Whitman",
+    "quote": "나는 나 자신을 찬양한다. 그리고 너를 찬양한다."
+  },
+  {
+    "author": "Unknown",
+    "quote": "시간은 모든 것을 치유한다."
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "혁신은 리더와 추종자를 구분 짓는다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "현재의 순간에 충실하라."
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "당신 자신이 되라. 다른 모든 사람은 이미 차지되었다."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "천 리 길도 한 걸음부터 시작된다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "평화는 자신 안에서 시작된다."
+  },
+  {
+    "author": "Albert Einstein",
+    "quote": "상상력은 지식보다 중요하다."
+  },
+  {
+    "author": "Helen Keller",
+    "quote": "당신의 가장 큰 장애물은 당신 자신이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "진정한 지혜는 자기 자신을 아는 것이다."
+  },
+  {
+    "author": "Japanese Proverb",
+    "quote": "천 번 넘어져도 천 번 일어서라."
+  },
+  {
+    "author": "AI Wisdom",
+    "quote": "데이터는 나침반이다. 방향은 네가 정한다."
+  },
+  {
+    "author": "Winston Churchill",
+    "quote": "성공은 실패를 극복하고 계속 나아가는 데 있다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "우리의 인생은 우리의 생각으로 이루어진다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "삶은 단순하게, 명료하게 살면 된다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "천천히 걸어도 포기하지 않으면 된다."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "우리의 운명은 우리의 선택에 달려 있다."
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "오늘을 사는 것은 가장 큰 모험이다."
+  },
+  {
+    "author": "Dalai Lama",
+    "quote": "사랑은 모든 것을 치유할 수 있다."
+  },
+  {
+    "author": "Rumi",
+    "quote": "삶의 음악은 너의 마음에서 울려퍼진다."
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "quote": "침묵은 최고의 답이다."
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "고통이 없는 삶은 삶이 아니다."
+  },
+  {
+    "author": "Kahlil Gibran",
+    "quote": "삶은 사랑으로 가득 차야 한다."
+  },
+  {
+    "author": "Albert Schweitzer",
+    "quote": "인생의 목적은 다른 이들을 돕는 것이다."
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "오늘 할 일을 내일로 미루지 마라."
+  },
+  {
+    "author": "Helen Keller",
+    "quote": "장애물은 나아가는 데 필요한 계단이다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "행복은 단순함 속에서 발견된다."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "용기는 두려움을 극복하는 것이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "배움은 끝이 없다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "지금 이 순간에 충실하라."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "먼 길도 가까운 곳에서 시작된다."
+  },
+  {
+    "author": "Japanese Proverb",
+    "quote": "작은 비가 큰 홍수를 만든다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "기술은 해결책이 아니라 도구이다."
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "삶은 스스로의 예술이다."
+  },
+  {
+    "author": "Winston Churchill",
+    "quote": "절대, 절대, 절대 포기하지 마라."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "너의 마음이 너의 삶을 만든다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "어제보다 나은 오늘을 만들어라."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "너의 삶은 너의 생각이 만든다."
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "가장 큰 영광은 결코 넘어지지 않는 것이 아니라, 넘어질 때마다 일어서는 것이다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "네가 꿈꾸는 미래는 오늘 네가 만드는 것이다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "용기는 모든 두려움을 이기는 첫걸음이다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "성공은 목표가 아니라 여정이다."
+  },
+  {
+    "author": "Rumi",
+    "quote": "내일을 기다리지 마라. 오늘이 네가 가진 전부다."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "힘들수록 멈추지 마라. 끝이 곧 시작이다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "과거를 묶어두지 말고, 현재를 살며 미래를 꿈꿔라."
+  },
+  {
+    "author": "Japanese Proverb",
+    "quote": "오늘의 노력은 내일의 승리를 가져온다."
+  },
+  {
+    "author": "Albert Schweitzer",
+    "quote": "작은 행동 하나가 큰 변화를 만든다."
+  },
+  {
+    "author": "Helen Keller",
+    "quote": "어둠 속에서도 희망을 잃지 마라. 빛은 곧 올 것이다."
+  },
+  {
+    "author": "AI Wisdom",
+    "quote": "포기하지 않는 자만이 가능성을 현실로 만든다."
+  },
+  {
+    "author": "Dalai Lama",
+    "quote": "행복은 찾는 것이 아니라, 만드는 것이다."
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "너 자신을 믿는 것이 가장 중요한 시작이다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "천천히 가는 것을 두려워 말고, 멈추는 것을 두려워하라."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "너의 행동이 너를 정의한다."
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "불가능한 것은 믿음이 부족할 때만 존재한다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "작은 도전들이 모여 큰 성공을 만든다."
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "너를 죽이지 않는 것은 너를 더 강하게 만든다."
+  },
+  {
+    "author": "Rumi",
+    "quote": "네 안의 가능성을 의심하지 마라."
+  },
+  {
+    "author": "Korean Proverb",
+    "quote": "고생 끝에 낙이 온다."
+  },
+  {
+    "author": "Unknown",
+    "quote": "오늘은 어제 네가 걱정했던 내일이다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "네가 두려워하는 것은 극복하기 위한 것이다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "어둠 속에서도 빛을 찾는 법을 배워라."
+  },
+  {
+    "author": "Japanese Proverb",
+    "quote": "강한 비가 내릴수록 더 단단한 땅이 된다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "작은 노력들이 모여 큰 변화를 만든다."
+  },
+  {
+    "author": "AI Insight",
+    "quote": "지금의 작은 결정이 미래를 바꾼다."
+  },
+  {
+    "author": "Helen Keller",
+    "quote": "당신이 할 수 없는 것이 아니라, 하고자 하는 의지가 문제다."
+  },
+  {
+    "author": "Dalai Lama",
+    "quote": "삶은 도전이고, 도전은 기회다."
+  },
+  {
+    "author": "AI Wisdom",
+    "quote": "성공은 준비된 자의 것이다."
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "위대한 일은 작은 시도로부터 시작된다."
+  },
+  {
+    "author": "Seneca",
+    "quote": "내일을 기다리기보다는 오늘을 살아라."
+  },
+  {
+    "author": "Epictetus",
+    "quote": "너의 마음이 너의 세상을 바꾼다."
+  },
+  {
+    "author": "Friedrich Nietzsche",
+    "quote": "삶의 의미는 너 스스로 만들어야 한다."
+  },
+  {
+    "author": "Confucius",
+    "quote": "계속 배우는 자는 절대 뒤처지지 않는다."
+  },
+  {
+    "author": "Buddha",
+    "quote": "네가 찾는 평화는 네 안에 있다."
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "변화는 네가 원하는 대로 시작된다."
+  },
+  {
+    "author": "AI Thought",
+    "quote": "오늘의 한 걸음이 미래의 큰 도약이 된다."
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "모든 것은 마음가짐에 달려 있다."
+  }
+]

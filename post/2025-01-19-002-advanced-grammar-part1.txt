@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[4547,[],"ClientSegmentRoot"]
+3:I[1581,["173","static/chunks/173-c4d1cb1ef98ad370.js","554","static/chunks/554-12cf779b55b96495.js","177","static/chunks/app/layout-3b9c880c575c077e.js"],"default"]
+4:I[5244,[],""]
+5:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+:HL["/_next/static/css/1c29980156a3eb9e.css","style"]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/8ec39089e5e47a00.css","style"]
+0:{"P":null,"b":"ZUkpWwqfmFrvqYDPD7c61","p":"","c":["","post","2025-01-19-002-advanced-grammar-part1"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-19-002-advanced-grammar-part1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1c29980156a3eb9e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@6"}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-19-002-advanced-grammar-part1","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8ec39089e5e47a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","3tAt9tZwSCrfMTn2J3swv",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+6:{}
+f:T1783,<h1 id="1장-심화-품사-구문-분석" tabindex="-1">1장. 심화 품사 &amp; 구문 분석</h1>
+<p>영어의 기본 품사는 익숙해져도, 실제로 더 깊이 들어가 보면 <strong>한정사(Determiner)</strong>, <strong>조동사(Modals)</strong>, 복합 구(phrases)와 절(clause)을 어떻게 파악하느냐에 따라 문장 해석과 작문 능력이 크게 달라집니다.</p>
+<p>이 장에서는 <strong>심화 품사 구분</strong>과 **구문 분석(Syntax Analysis)**에 초점을 맞춰, 영어 문장을 보다 섬세하게 이해하고 구성하는 방법을 살펴봅니다.</p>
+<hr>
+<h2 id="1-세분화된-품사" tabindex="-1">1. 세분화된 품사</h2>
+<p>기초적으로 명사·대명사·동사·형용사·부사·전치사·접속사·감탄사 등이 있지만, 실제로는 **한정사(Determiner)**와 **조동사(Modals)**가 별도 범주로 확장되는 등 더 정교한 분류가 가능합니다.</p>
+<h3 id="11-한정사determiner" tabindex="-1">1.1 한정사(Determiner)</h3>
+<ul>
+<li><strong>예시</strong>: <em>a, an, the, this, that, my, your, each, every</em> 등</li>
+<li>보통 명사 앞에 위치하여, 명사의 수나 특정성(특정한 대상인지, 불특정한 대상인지)을 결정하는 역할을 합니다.
+<ul>
+<li><em>the book</em>, <em>my phone</em>, <em>every student</em></li>
+</ul>
+</li>
+<li><strong>복합 표현</strong>: 수량이나 소유를 좀 더 복잡하게 표현하는 <em>a lot of</em>, <em>my sister’s</em>, <em>the boy’s</em> 등을 익히면 문장을 더 풍부하게 만들 수 있습니다.</li>
+</ul>
+<h3 id="12-조동사modals" tabindex="-1">1.2 조동사(Modals)</h3>
+<ul>
+<li><strong>예시</strong>: <em>can, could, may, might, must, should, will, would, shall</em> 등</li>
+<li>시제(tense)나 태(voice)와는 별개로, <strong>능력·허락·추측·의무</strong> 등의 의미를 덧붙이는 역할을 수행합니다.
+<ul>
+<li><em>He can swim.</em>, <em>You should apologize.</em>, <em>They might come.</em></li>
+</ul>
+</li>
+</ul>
+<h3 id="13-구phrase와-절clause의-세밀한-이해" tabindex="-1">1.3 구(phrase)와 절(clause)의 세밀한 이해</h3>
+<ul>
+<li><strong>명사구(NP)</strong>: 주어·목적어·보어 등 다양한 위치에서 쓰이며, 전치사구나 형용사절을 포함해 길어질 수 있습니다.
+<ul>
+<li>예: <em>The man in the blue suit who spoke loudly</em></li>
+</ul>
+</li>
+<li><strong>동사구(VP)</strong>: 본동사 + 조동사 + 부사 등으로 다층적으로 확장되며, 시제·태·상(Aspect) 등에 따라 구조가 복잡해집니다.
+<ul>
+<li>예: <em>has been working diligently</em>, <em>should have finished already</em></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="2-구문-분석syntax-analysis-기초" tabindex="-1">2. 구문 분석(Syntax Analysis) 기초</h2>
+<p>문장 구조를 분석할 때, <strong>주어(S)</strong>·<strong>동사(V)</strong>·<strong>목적어(O)</strong>·<strong>보어(C)</strong>·<strong>부사구(A)</strong> 등을 파악해 나가는 방식은 기본입니다. 하지만 고급으로 갈수록, 다음과 같은 경우에 대한 이해가 중요합니다.</p>
+<h3 id="21-도치inversion" tabindex="-1">2.1 도치(Inversion)</h3>
+<ul>
+<li>어순을 S-V-O에서 벗어나게 만드는 대표 사례:
+<ol>
+<li><strong>의문문</strong>: <em>Do you like coffee?</em></li>
+<li><strong>부정 의미 부사(never, rarely 등)가 문두로 오는 경우</strong>:
+<blockquote>
+<p><em>Never have I seen such chaos.</em></p>
+</blockquote>
+</li>
+<li><strong>강조 목적으로 부사구가 앞에 올 때</strong>:
+<blockquote>
+<p><em>Only after the storm did we see the damage clearly.</em></p>
+</blockquote>
+</li>
+</ol>
+</li>
+</ul>
+<h3 id="22-강조-구문emphatic-structures" tabindex="-1">2.2 강조 구문(Emphatic Structures)</h3>
+<ul>
+<li><strong>It-cleft</strong>: <em>It was Tom who fixed the car.</em></li>
+<li><strong>What-cleft</strong>: <em>What I need is a good rest.</em></li>
+<li>특정 요소를 부각시켜, 문장 전체의 의미를 분명히 하는 데 사용됩니다.</li>
+</ul>
+<h3 id="23-병렬-구조parallel-structure" tabindex="-1">2.3 병렬 구조(Parallel Structure)</h3>
+<ul>
+<li><strong>등위접속사</strong>(<em>and, or, but</em> 등)로 연결되는 목록이나 동사 구문은 같은 문법적 형태를 유지해야 자연스럽습니다.
+<ul>
+<li><em>I like swimming, hiking, and running.</em></li>
+<li>(어색) <em>I like swimming, to hike, and running.</em></li>
+</ul>
+</li>
+</ul>
+<h3 id="24-분사구문participial-constructions" tabindex="-1">2.4 분사구문(Participial Constructions)</h3>
+<ul>
+<li><strong>현재분사(-ing)</strong> 또는 **과거분사(p.p.)**를 이용해 부수적 정보를 줄이면서, 문장을 매끄럽게 연결하는 방식입니다.
+<ul>
+<li><em>Walking down the street, I ran into an old friend.</em></li>
+<li><em>Written in haste, the letter contained several errors.</em></li>
+</ul>
+</li>
+<li>주의할 점: 분사의 주어가 문장 주어와 동일해야 자연스럽습니다(‘매달린 분사(Dangling modifier)’ 오류에 유의).</li>
+</ul>
+<hr>
+<h2 id="3-심화-분석-시-주의할-점" tabindex="-1">3. 심화 분석 시 주의할 점</h2>
+<ol>
+<li><strong>복합 구문과 어순</strong>: 도치·강조·분사구문 등에서 어순이 변화하므로, 기본 S-V-O를 잊지 않되, 다양한 패턴을 익혀둡니다.</li>
+<li><strong>주어-동사 수 일치</strong>: 문장이 길어질수록, 주어가 단수인지 복수인지 확인하는 습관이 필수입니다.</li>
+<li><strong>조동사 + 수동태</strong>: *He was seen to leave the house.*처럼, 수동태가 되면 동사 형태가 바뀌는 점을 잘 챙겨야 합니다.</li>
+</ol>
+<hr>
+<p>위 내용을 숙지하면, 문장을 보는 눈이 한층 넓어지고 깊어집니다. 다음 장에서는 고급 시제(완료진행 등)와 가정법, 도치 구문 외에 <strong>자주 쓰이는 문법 포인트</strong>들을 더 다뤄봅니다.</p>
+7:["$","div",null,{"className":"flex flex-col items-center w-full min-h-screen bg-gray-950 rounded-xl p-6 transition-colors duration-300","children":[["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 mb-6 transition-colors duration-300","children":[["$","div",null,{"className":"text-center border-b border-gray-700 pb-4 mb-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-gray-100","children":"영어 문법 심화 1장: 심화 품사 & 구문 분석"}],["$","p",null,{"className":"text-gray-400","children":"영어 문법에서 더 세분화된 품사와 구문분석 기법을 배우는 글입니다."}]]}],["$","div",null,{"className":"grid grid-cols-2 md:grid-cols-3 gap-4 text-center","children":[["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Author"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"wxnovic"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Date"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":"2025-01-19 09:00:00"}]]}],["$","div",null,{"children":[["$","span",null,{"className":"block text-sm text-gray-400","children":"Category"}],["$","span",null,{"className":"text-base font-medium text-gray-200","children":[["$","$1","0",{"children":[["$","span",null,{"children":"English"}],["$","i",null,{"className":"bi bi-arrow-right-short"}]]}],["$","$1","1",{"children":[["$","span",null,{"children":"Grammar"}],null]}]]}]]}]]}]]}],["$","div",null,{"className":"w-full max-w-4xl bg-gray-900 shadow-lg rounded-lg p-6 transition-colors duration-300","children":["$","div",null,{"className":"markdown-body text-gray-100","dangerouslySetInnerHTML":{"__html":"$f"}}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"영어 문법 심화 1장: 심화 품사 & 구문 분석"}],["$","meta","2",{"name":"description","content":"영어 문법에서 더 세분화된 품사와 구문분석 기법을 배우는 글입니다."}],["$","meta","3",{"name":"author","content":"wxnovic"}],["$","meta","4",{"property":"og:title","content":"영어 문법 심화 1장: 심화 품사 & 구문 분석"}],["$","meta","5",{"property":"og:description","content":"영어 문법에서 더 세분화된 품사와 구문분석 기법을 배우는 글입니다."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-01-19 09:00:00"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"영어 문법 심화 1장: 심화 품사 & 구문 분석"}],["$","meta","10",{"name":"twitter:description","content":"영어 문법에서 더 세분화된 품사와 구문분석 기법을 배우는 글입니다."}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
