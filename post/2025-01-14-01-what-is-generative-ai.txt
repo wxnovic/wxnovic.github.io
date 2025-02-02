@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[90186,["173","static/chunks/173-86239e621de93210.js","505","static/chunks/505-b7ff902e96380f12.js","177","static/chunks/app/layout-d99e8e8dec736f02.js"],"default"]
+3:I[41796,["173","static/chunks/173-86239e621de93210.js","505","static/chunks/505-b7ff902e96380f12.js","177","static/chunks/app/layout-d99e8e8dec736f02.js"],"default"]
+4:I[15244,[],""]
+5:I[43866,[],""]
+7:I[86213,[],"OutletBoundary"]
+9:I[86213,[],"MetadataBoundary"]
+b:I[86213,[],"ViewportBoundary"]
+d:I[34835,[],""]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/2b67ede0c688041c.css","style"]
+:HL["/_next/static/css/83f55ffdcf0050ba.css","style"]
+0:{"P":null,"b":"jFlFTWzkUF7DMrj3irYeE","p":"","c":["","post","2025-01-14-01-what-is-generative-ai"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-01-14-01-what-is-generative-ai","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2b67ede0c688041c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-01-14-01-what-is-generative-ai","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/83f55ffdcf0050ba.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Clq_ysHYWR7nb0P7DrSW5",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[38278,["992","static/chunks/bc9e92e6-2bb58a6cd9bc5a5f.js","458","static/chunks/e58627ac-8309e1c2cb934132.js","714","static/chunks/714-1ba534d1a92702d7.js","947","static/chunks/947-8b30af2f3c6e30fd.js","765","static/chunks/765-c408ace2da6646a0.js","505","static/chunks/505-b7ff902e96380f12.js","627","static/chunks/app/post/%5Bslug%5D/page-de41012891d3ebd2.js"],"default"]
+f:T1cf6,---
+# SEO -------------------------------------------------------------------
+title: "Generative AI란?"
+description: "Generative AI에 대한 개념과 활용 방안에 대해 설명합니다."
+keywords: ["인공지능", "AI", "Generative AI"]
+authors: [{ name: "wxnovic", url: "https://wxnovic.vercel.app" }]
+siteName: WxNovic
+
+images:
+  [
+    {
+      url: "",
+      width: "",
+      height: "",
+      alt: "",
+    },
+  ]
+tags: ["인공지능", "AI", "Generative AI"]
+categories: ["AI", "ChatGPT", "Gen AI"]
+slug: "/post/2025-01-14-01-what-is-generative-ai"
+image: ""
+published: true
+publishedTime: "2025-01-14T12:00:00Z"
+modifiedTime: ""
+# -----------------------------------------------------------------------
+
+# OpenGraph -------------------------------------------------------------
+openGraph:
+  title: "Generative AI란?"
+  description: "Generative AI의 개념과 활용 방안을 정리한 가이드입니다."
+  # images:
+  #   [
+  #     {
+  #       url: "",
+  #       width: "",
+  #       height: "",
+  #       alt: "",
+  #     },
+  #   ]
+  type: "article"
+  url: "https://wxnovic.vercel.app/post/2025-01-14-01-what-is-generative-ai"
+  publishedTime: "2025-01-14T12:00:00Z"
+  modifiedTime: ""
+# -----------------------------------------------------------------------
+
+# Twitter ---------------------------------------------------------------
+twitter:
+  title: "Generative AI란?"
+  description: "Generative AI의 개념과 활용에 대해 알아볼 수 있는 유용한 가이드입니다."
+  # images:
+  #   [
+  #     {
+  #       url: "",
+  #       width: "",
+  #       height: "",
+  #       alt: "",
+  #     },
+  #   ]
+  card: "summary_large_image"
+# -----------------------------------------------------------------------
+---
+
+# Generative AI란 무엇인가요?
+
+안녕하세요! 오늘은 조금 더 심층적으로 **Generative AI**에 대해 알아보려고 해요. 최근 몇 년간 화제가 되어온 이 기술은 말 그대로 새로운 데이터를 “생성”할 수 있다는 점에서 많은 이들의 관심을 받고 있습니다. 텍스트, 이미지, 음악, 심지어 영상까지! 무궁무진한 가능성을 품고 있는 기술이죠. 😆
+
+---
+
+## 1. Generative AI의 탄생과 배경
+
+Generative AI는 **머신러닝**(Machine Learning)과 **딥러닝**(Deep Learning)의 발전이 결합되어 탄생한 결과물입니다. 기존의 AI가 주어진 데이터를 분석하고 분류하는 데 초점을 맞췄다면, Generative AI는 한 걸음 더 나아가 **“새로운”** 무언가를 만들어낼 수 있습니다.
+
+주요 연구로는 GAN(Generative Adversarial Network)을 제안한 **Goodfellow et al.(2014)**의 논문이 대표적이며[^1], 이후 딥러닝 아키텍처인 Transformer 모델이 등장하면서 **Vaswani et al.(2017)**[^2]의 “Attention is All You Need” 논문이 또 다른 혁신을 이끌어냈습니다.
+
+---
+
+## 2. Generative AI의 핵심 기술
+
+Generative AI가 다양한 분야에서 활약할 수 있는 이유는 크게 두 가지 모델에 있습니다.
+
+1. **GAN(Generative Adversarial Networks)**
+
+   - **생성자(Generator)**와 **판별자(Discriminator)**라는 두 신경망이 경쟁하며 학습합니다. 생성자는 판별자를 속이기 위한 새로운 이미지를 만들고, 판별자는 진짜 이미지와 생성된 이미지를 구분합니다. 이 경쟁 과정에서 점차 **고퀄리티** 이미지를 생성할 수 있게 됩니다.
+   - 예: 가짜 얼굴 이미지를 생성하거나, 스타일을 바꿔 이미지를 만들어내는 등 다양한 이미지 관련 애플리케이션에 적용
+
+2. **Transformer 기반 모델**
+   - 언어 처리부터 이미지, 음성 합성까지 폭넓게 활용되는 모델입니다.
+   - **ChatGPT** 역시 이 Transformer 구조를 기반으로 하며, 문맥을 고려해 “의미 있는” 텍스트를 자동으로 생성하는 데 강점을 갖습니다.
+   - 예: 자동 번역, 장문의 텍스트 생성, 코드 작성 등의 분야
+
+---
+
+## 3. 활용 사례
+
+Generative AI는 이미 우리의 일상에 숨어들고 있습니다.
+
+1. **이미지 생성**: 포스터, 로고, 일러스트 제작 등 그래픽 디자인 분야에서 혁신을 일으키고 있습니다.
+2. **글쓰기 보조**: 블로그 글 초안 작성, 기사 요약, 마케팅 카피 제작 등 텍스트 기반 업무를 효율화합니다.
+3. **음악/사운드**: 기본적 멜로디 생성부터 악기별 트랙 합성까지 가능해, 음악가들의 새로운 영감 원천이 되고 있습니다.
+4. **영화/영상**: 딥페이크(Deepfake) 기술처럼 영상 합성에 활용되지만, 동시에 여러 윤리적 문제도 함께 제기됩니다.
+
+---
+
+## 4. 장점과 한계
+
+Generative AI는 놀라울 정도로 창의적인 결과물을 만들어낼 수 있지만, 다음과 같은 장단점을 이해하고 접근해야 합니다.
+
+### 장점
+
+- **창의성 향상**: 기존에 없는 디자인, 아이디어를 구상하는 데 큰 도움이 됩니다.
+- **생산성 증가**: 반복적이고 시간이 많이 드는 작업을 빠르고 효율적으로 처리합니다.
+- **다양한 콘텐츠 생성**: 이미지, 텍스트, 음성, 동영상 등 폭넓은 응용이 가능합니다.
+
+### 한계
+
+1. **윤리적 문제**: 딥페이크 영상, 허위 정보 생성 등 악용될 수 있는 부분이 존재합니다.
+2. **데이터 의존성**: 모델이 편향된 데이터를 학습하면 결과도 왜곡될 수 있습니다.
+3. **저작권 이슈**: 학습 데이터로 사용된 원본의 저작권 문제가 발생할 수 있습니다.
+
+---
+
+## 5. Generative AI 활용 가이드
+
+효율적으로 Generative AI를 활용하려면 아래 사항을 참고하세요.
+
+1. **명확한 목표 설정**: 어떤 결과물을 원하는지 구체적으로 설정할수록, 더 적합한 모델과 파라미터를 선택할 수 있습니다.
+2. **데이터 품질 관리**: 퀄리티 높은 데이터를 사용하면, 더 나은 출력 결과를 기대할 수 있습니다.
+3. **결과물 검증**: 생성된 콘텐츠를 맹신하기보다는, **전문가 검토**와 2차 확인 과정을 반드시 거치세요.
+4. **윤리적 기준 마련**: 부적절한 콘텐츠 생성을 방지하기 위해, 내부적으로 윤리 가이드라인을 구축하는 것이 중요합니다.
+
+---
+
+## 6. 마무리 및 전망
+
+Generative AI는 AI 기술의 발전에서 하나의 **“새로운 패러다임”**을 열었다고 해도 과언이 아닙니다. 단순히 주어진 데이터를 처리하는 것을 넘어, **창작**의 영역까지 진출하고 있기 때문이죠. 🎉 앞으로도 새로운 연구가 활발히 진행될 예정이며, 이를 통해 예술, 디자인, 비즈니스, 교육 등 다양한 분야에서 더욱 혁신적인 변화가 기대됩니다.
+
+만약 Generative AI에 대해 더 궁금하신 점이 있다면, 언제든지 댓글로 남겨주세요. 여러분의 질문을 환영합니다! 🙌
+
+---
+
+## 참고 문헌(References)
+
+[^1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). _Generative adversarial nets_. Advances in neural information processing systems, 27.
+[^2]:
+    Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). _Attention is all you need_. Advances in neural information processing systems, 30.  
+    $
+6:["$","$Le",null,{"rawContent":"$f"}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Generative AI란? | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","2",{"name":"description","content":"Generative AI에 대한 개념과 활용 방안에 대해 설명합니다."}],["$","link","3",{"rel":"author","href":"https://wxnovic.vercel.app"}],["$","meta","4",{"name":"author","content":"wxnovic"}],["$","meta","5",{"name":"keywords","content":"인공지능,AI,Generative AI"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"custom-meta","content":"IT 기술 블로그, Next.js 활용, SEO 최적화, 웹 개발 트렌드, 아이디어 공유"}],["$","link","8",{"rel":"canonical","href":"https://wxnovic.vercel.app/post/2025-01-14-01-what-is-generative-ai"}],["$","meta","9",{"property":"og:title","content":"Generative AI란?"}],["$","meta","10",{"property":"og:description","content":"Generative AI의 개념과 활용 방안을 정리한 가이드입니다."}],["$","meta","11",{"property":"og:url","content":"https://wxnovic.vercel.app/post/2025-01-14-01-what-is-generative-ai"}],["$","meta","12",{"property":"og:image","content":"https://wxnovic.vercel.app/og-image.jpg"}],["$","meta","13",{"property":"og:image:width","content":"1000"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Generative AI란? | WxNovic"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2025-01-14T12:00:00Z"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Generative AI란?"}],["$","meta","20",{"name":"twitter:description","content":"Generative AI의 개념과 활용에 대해 알아볼 수 있는 유용한 가이드입니다."}],["$","meta","21",{"name":"twitter:image","content":"https://wxnovic.vercel.app/twitter-image.jpg"}],["$","meta","22",{"name":"twitter:image:width","content":"1000"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","meta","24",{"name":"twitter:image:alt","content":"Generative AI란? | WxNovic"}],["$","link","25",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","26",{"rel":"icon","href":"/favicon.ico"}],["$","link","27",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]]
+8:null
