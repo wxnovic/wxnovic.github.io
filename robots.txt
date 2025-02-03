@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://wxnovic.vercel.app
+Host: https://wxnovic.github.io
 
 # Sitemaps
-Sitemap: https://wxnovic.vercel.app/sitemap.xml
+Sitemap: https://wxnovic.github.io/sitemap.xml
