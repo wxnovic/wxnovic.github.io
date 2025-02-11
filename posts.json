@@ -1,5 +1,74 @@
 [
   {
+    "title": "Github Pages 블로그 만들기: Git 레포지토리 생성 및 Next.js 설치 및 배포",
+    "description": "Next.js와 Github Pages를 활용하여 나만의 블로그를 만드는 방법을 단계별로 설명합니다. 레포지토리 생성부터 Next.js 설치, 초기 설정까지 쉽게 따라 할 수 있습니다.",
+    "keywords": [
+      "Next.js",
+      "Github",
+      "Git",
+      "Github Pages",
+      "블로그 만들기",
+      "프론트엔드 개발"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "/"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "Next.js",
+      "Github Pages",
+      "프론트엔드"
+    ],
+    "categories": [
+      "Next.js"
+    ],
+    "slug": "/post/2025-02-04-001-how-to-create-nextjs-blog-001",
+    "image": "",
+    "published": true,
+    "publishedTime": "2025-02-04T17:00:00Z",
+    "modifiedTime": "2025-02-04T17:00:00Z",
+    "openGraph": {
+      "title": "Github Pages 블로그 만들기: Next.js로 쉽고 빠르게 시작하기",
+      "description": "Github Pages와 Next.js를 활용한 블로그 제작 가이드. 개발 환경 설정부터 배포까지 자세히 설명합니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "https://wxnovic.github.io/post/2025-02-04-001-how-to-create-nextjs-blog-001",
+      "publishedTime": "2025-02-04T17:00:00Z",
+      "modifiedTime": "2025-02-04T17:00:00Z"
+    },
+    "twitter": {
+      "title": "Next.js와 Github Pages로 블로그 만들기",
+      "description": "Next.js로 빠르게 블로그를 만들고 Github Pages에 배포하는 방법을 단계별로 설명합니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "Markdown 사용법 가이드",
     "description": "Markdown 언어를 사용하는 방법에 대해 알아봅니다.",
     "keywords": [
