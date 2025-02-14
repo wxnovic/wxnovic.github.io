@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://wxnovic.github.io
+
+# Sitemaps
+Sitemap: https://wxnovic.github.io/sitemap.xml
