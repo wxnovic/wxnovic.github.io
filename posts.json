@@ -1,5 +1,72 @@
 [
   {
+    "title": "마크다운 언어 사용법",
+    "description": "간단한 구조로 빠르게 컨텐츠를 작성할 수 있는 마크다운에 대해 알아보겠습니다.",
+    "keywords": [
+      "Markdown",
+      "MD",
+      "HTML",
+      "content",
+      "마크다운"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "https://wxnovic.github.io"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "Markdown",
+      "마크다운"
+    ],
+    "categories": [
+      "Markdown"
+    ],
+    "slug": "/post/2025-02-14-001-how-to-use-markdown",
+    "image": "/assets/post/2025-02-14-001-how-to-use-markdown/og-image.png",
+    "published": true,
+    "publishedTime": "2025-02-14T22:55:00Z",
+    "modifiedTime": "2025-02-14T22:55:00Z",
+    "openGraph": {
+      "title": "마크다운 언어 사용법",
+      "description": "간단한 구조로 빠르게 컨텐츠를 작성할 수 있는 마크다운에 대해 알아보겠습니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "https://wxnovic.github.io/post/2025-02-14-001-how-to-use-markdown",
+      "publishedTime": "2025-02-14T22:55:00Z",
+      "modifiedTime": "2025-02-14T22:55:00Z"
+    },
+    "twitter": {
+      "title": "마크다운 언어 사용법",
+      "description": "간단한 구조로 빠르게 컨텐츠를 작성할 수 있는 마크다운에 대해 알아보겠습니다.",
+      "images": [
+        {
+          "url": "/assets/post/2025-02-14-001-how-to-use-markdown/twitter-image.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "블로그를 시작했습니다.",
     "description": "React.js 프레임워크인 Next.js로 정적 웹사이트를 Github Page에 배포하여 블로그를 시작하였습니다.",
     "keywords": [
