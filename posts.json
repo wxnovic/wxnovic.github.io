@@ -1,7 +1,7 @@
 [
   {
-    "title": "마크다운 언어 사용법",
-    "description": "간단한 구조로 빠르게 컨텐츠를 작성할 수 있는 마크다운에 대해 알아보겠습니다.",
+    "title": "마크다운 사용법 및 예제",
+    "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
     "keywords": [
       "Markdown",
       "MD",
@@ -38,8 +38,8 @@
     "publishedTime": "2025-02-14T22:55:00Z",
     "modifiedTime": "2025-02-14T22:55:00Z",
     "openGraph": {
-      "title": "마크다운 언어 사용법",
-      "description": "간단한 구조로 빠르게 컨텐츠를 작성할 수 있는 마크다운에 대해 알아보겠습니다.",
+      "title": "마크다운 사용법 및 예제",
+      "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
       "images": [
         {
           "url": "",
@@ -54,8 +54,8 @@
       "modifiedTime": "2025-02-14T22:55:00Z"
     },
     "twitter": {
-      "title": "마크다운 언어 사용법",
-      "description": "간단한 구조로 빠르게 컨텐츠를 작성할 수 있는 마크다운에 대해 알아보겠습니다.",
+      "title": "마크다운 사용법 및 예제",
+      "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
       "images": [
         {
           "url": "/assets/post/2025-02-14-001-how-to-use-markdown/twitter-image.png",
