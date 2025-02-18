@@ -21,7 +21,7 @@
     "siteName": "WxNovic",
     "images": [
       {
-        "url": "",
+        "url": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/og-image.png",
         "width": 1200,
         "height": 630,
         "alt": "NO-IMAGE"
@@ -50,7 +50,7 @@
       "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
       "images": [
         {
-          "url": "",
+          "url": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/og-image.png",
           "width": 1200,
           "height": 630,
           "alt": "NO-IMAGE"

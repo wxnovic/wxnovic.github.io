@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://wxnovic.github.io/posts</loc><lastmod>2025-02-18T12:53:38.784Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/%EB%B8%94%EB%A1%9C%EA%B7%B8</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/Blog</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/Github%20Pages</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/HTML</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/MD</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/Markdown</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/Next.js</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag/content</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/apps/markdown-editor</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/category</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/post/2025-02-13-001-my-new-blog-app</loc><lastmod>2025-02-13T22:20:00.000+09:00</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/post/2025-02-14-001-how-to-use-markdown</loc><lastmod>2025-02-15T07:55:00.000+09:00</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/post/2025-02-17-001-nextjs-blog-tutorial-001</loc><lastmod>2025-02-19T06:48:00.000+09:00</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/tag</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/category/markdown/0</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/category/next.js/0</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://wxnovic.github.io/category/story/0</loc><lastmod>2025-02-18T12:53:38.785Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://wxnovic.github.io/post/2025-02-13-001-my-new-blog-app</loc><lastmod>2025-02-13T22:20:00.000+09:00</lastmod></url>
+<url><loc>https://wxnovic.github.io/post/2025-02-14-001-how-to-use-markdown</loc><lastmod>2025-02-15T07:55:00.000+09:00</lastmod></url>
+<url><loc>https://wxnovic.github.io/post/2025-02-17-001-nextjs-blog-tutorial-001</loc><lastmod>2025-02-19T06:48:00.000+09:00</lastmod></url>
 </urlset>
