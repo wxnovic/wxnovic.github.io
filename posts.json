@@ -1,5 +1,81 @@
 [
   {
+    "title": "Next.js 블로그 만들기 - 0. 프로젝트 셋팅",
+    "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
+    "keywords": [
+      "Markdown",
+      "MD",
+      "HTML",
+      "content",
+      "마크다운",
+      "Blog",
+      "블로그",
+      "Next.js"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "https://wxnovic.github.io"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "Markdown",
+      "MD",
+      "HTML",
+      "content",
+      "마크다운",
+      "Blog",
+      "블로그",
+      "Next.js"
+    ],
+    "categories": [
+      "Next.js"
+    ],
+    "slug": "/post/2025-02-17-001-nextjs-blog-tutorial-001",
+    "image": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/og-image.png",
+    "published": true,
+    "publishedTime": "2025-02-18T21:48:00Z",
+    "modifiedTime": "2025-02-18T21:48:00Z",
+    "openGraph": {
+      "title": "Next.js 블로그 만들기 - 0. 프로젝트 셋팅",
+      "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "https://wxnovic.github.io/post/2025-02-17-001-nextjs-blog-tutorial-001",
+      "publishedTime": "2025-02-18T21:48:00Z",
+      "modifiedTime": "2025-02-18T21:48:00Z"
+    },
+    "twitter": {
+      "title": "Next.js 블로그 만들기 - 0. 프로젝트 셋팅",
+      "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
+      "images": [
+        {
+          "url": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/twitter-image.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "마크다운 사용법 및 예제",
     "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
     "keywords": [
