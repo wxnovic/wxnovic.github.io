@@ -1,16 +1,16 @@
 [
   {
-    "title": "Next.js 블로그 만들기 - 0. 프로젝트 셋팅",
-    "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
+    "title": "Next.js 블로그 만들기 - 0. 프로젝트 설정 및 배포",
+    "description": "Next.js와 GitHub Pages를 활용하여 블로그를 설정하고 배포하는 방법을 자세히 설명합니다.",
     "keywords": [
+      "Next.js",
+      "GitHub Pages",
       "Markdown",
       "MD",
       "HTML",
-      "content",
-      "마크다운",
-      "Blog",
       "블로그",
-      "Next.js"
+      "SEO 최적화",
+      "정적 사이트"
     ],
     "authors": [
       {
@@ -24,18 +24,18 @@
         "url": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/og-image.png",
         "width": 1200,
         "height": 630,
-        "alt": "NO-IMAGE"
+        "alt": "Next.js 블로그 프로젝트 설정 및 배포"
       }
     ],
     "tags": [
+      "Next.js",
+      "GitHub Pages",
       "Markdown",
       "MD",
       "HTML",
-      "content",
-      "마크다운",
-      "Blog",
       "블로그",
-      "Next.js"
+      "SEO 최적화",
+      "정적 사이트"
     ],
     "categories": [
       "Next.js"
@@ -46,14 +46,14 @@
     "publishedTime": "2025-02-18T21:48:00Z",
     "modifiedTime": "2025-02-18T21:48:00Z",
     "openGraph": {
-      "title": "Next.js 블로그 만들기 - 0. 프로젝트 셋팅",
-      "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
+      "title": "Next.js 블로그 만들기 - 0. 프로젝트 설정 및 배포",
+      "description": "Next.js와 GitHub Pages를 활용하여 블로그를 설정하고 배포하는 방법을 자세히 설명합니다.",
       "images": [
         {
           "url": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/og-image.png",
           "width": 1200,
           "height": 630,
-          "alt": "NO-IMAGE"
+          "alt": "Next.js 블로그 프로젝트 설정 및 배포"
         }
       ],
       "type": "article",
@@ -62,28 +62,29 @@
       "modifiedTime": "2025-02-18T21:48:00Z"
     },
     "twitter": {
-      "title": "Next.js 블로그 만들기 - 0. 프로젝트 셋팅",
-      "description": "Next.js와 Github Page를 활용하여 블로그를 구성하는 방법에 대해 설명합니다.",
+      "title": "Next.js 블로그 만들기 - 0. 프로젝트 설정 및 배포",
+      "description": "Next.js와 GitHub Pages를 활용하여 블로그를 설정하고 배포하는 방법을 자세히 설명합니다.",
       "images": [
         {
           "url": "/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/twitter-image.png",
           "width": 1200,
           "height": 630,
-          "alt": "NO-IMAGE"
+          "alt": "Next.js 블로그 프로젝트 설정 및 배포"
         }
       ],
       "card": "summary_large_image"
     }
   },
   {
-    "title": "마크다운 사용법 및 예제",
-    "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
+    "title": "마크다운 사용법 및 예제: 기본 문법부터 HTML 변환까지",
+    "description": "마크다운(Markdown) 주요 문법과 HTML 변환 예시를 확인하며, 빠르고 효율적인 문서 작성 방법을 알아봅니다.",
     "keywords": [
       "Markdown",
       "MD",
       "HTML",
       "content",
-      "마크다운"
+      "마크다운",
+      "마크다운 문법"
     ],
     "authors": [
       {
@@ -97,7 +98,7 @@
         "url": "",
         "width": 1200,
         "height": 630,
-        "alt": "NO-IMAGE"
+        "alt": "마크다운 사용법 및 예제"
       }
     ],
     "tags": [
@@ -114,14 +115,14 @@
     "publishedTime": "2025-02-14T22:55:00Z",
     "modifiedTime": "2025-02-14T22:55:00Z",
     "openGraph": {
-      "title": "마크다운 사용법 및 예제",
-      "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
+      "title": "마크다운 사용법 및 예제: 기본 문법부터 HTML 변환까지",
+      "description": "마크다운(Markdown) 주요 문법과 HTML 변환 예시를 확인하며, 빠르고 효율적인 문서 작성 방법을 알아봅니다.",
       "images": [
         {
           "url": "",
           "width": 1200,
           "height": 630,
-          "alt": "NO-IMAGE"
+          "alt": "마크다운 사용법 및 예제"
         }
       ],
       "type": "article",
@@ -130,14 +131,14 @@
       "modifiedTime": "2025-02-14T22:55:00Z"
     },
     "twitter": {
-      "title": "마크다운 사용법 및 예제",
-      "description": "마크다운 사용법과 예제에 대해서 알아보는 포스트입니다.",
+      "title": "마크다운 사용법 및 예제: 기본 문법부터 HTML 변환까지",
+      "description": "마크다운(Markdown) 주요 문법과 HTML 변환 예시를 확인하며, 빠르고 효율적인 문서 작성 방법을 알아봅니다.",
       "images": [
         {
           "url": "/assets/post/2025-02-14-001-how-to-use-markdown/twitter-image.png",
           "width": 1200,
           "height": 630,
-          "alt": "NO-IMAGE"
+          "alt": "마크다운 사용법 및 예제"
         }
       ],
       "card": "summary_large_image"
