@@ -1,5 +1,69 @@
 [
   {
+    "title": "ASCII 코드 문자표",
+    "description": "ASCII Code 문자열을 표로 정리한 내용입니다.",
+    "keywords": [
+      "ASCII",
+      "CODE"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "https://wxnovic.github.io"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "ASCII",
+      "CODE"
+    ],
+    "categories": [
+      "ASCII"
+    ],
+    "slug": "/post/2025-02-25-002-ascii-code-list",
+    "image": "",
+    "published": true,
+    "publishedTime": "2025-02-25T22:00:00Z",
+    "modifiedTime": "2025-02-25T22:00:00Z",
+    "openGraph": {
+      "title": "ASCII 코드 문자표",
+      "description": "ASCII Code 문자열을 표로 정리한 내용입니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "",
+      "publishedTime": "2025-02-25T22:00:00Z",
+      "modifiedTime": "2025-02-25T22:00:00Z"
+    },
+    "twitter": {
+      "title": "ASCII 코드 문자표",
+      "description": "ASCII Code 문자열을 표로 정리한 내용입니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "Next.js 블로그 만들기 - 0. 프로젝트 설정 및 배포",
     "description": "Next.js와 GitHub Pages를 활용하여 블로그를 설정하고 배포하는 방법을 자세히 설명합니다.",
     "keywords": [
