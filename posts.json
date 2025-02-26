@@ -1,5 +1,69 @@
 [
   {
+    "title": "자주 사용하는 유니코드 문자 모음",
+    "description": "자주 사용하는 유니코드 문자들을 정리하였습니다.",
+    "keywords": [
+      "UNICODE",
+      "CODE"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "https://wxnovic.github.io"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "UNICODE",
+      "CODE"
+    ],
+    "categories": [
+      "UNICODE"
+    ],
+    "slug": "/post/2025-02-26-001-emotion-list",
+    "image": "",
+    "published": true,
+    "publishedTime": "2025-02-26T10:59:00Z",
+    "modifiedTime": "2025-02-26T10:59:00Z",
+    "openGraph": {
+      "title": "자주 사용하는 유니코드 문자 모음",
+      "description": "자주 사용하는 유니코드 문자들을 정리하였습니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "",
+      "publishedTime": "2025-02-26T10:59:00Z",
+      "modifiedTime": "2025-02-26T10:59:00Z"
+    },
+    "twitter": {
+      "title": "자주 사용하는 유니코드 문자 모음",
+      "description": "자주 사용하는 유니코드 문자들을 정리하였습니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "ASCII 코드 문자표",
     "description": "ASCII Code 문자열을 표로 정리한 내용입니다.",
     "keywords": [
