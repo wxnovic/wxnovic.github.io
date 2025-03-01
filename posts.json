@@ -1,5 +1,71 @@
 [
   {
+    "title": "MySQL 유저 생성 명령어",
+    "description": "MySQL에서 유저를 생성하고 데이터베이스를 만드는 방법, 권한 설정에 대해 설명합니다.",
+    "keywords": [
+      "MySQL",
+      "Database",
+      "User"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "https://wxnovic.github.io"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "MySQL",
+      "Database",
+      "User"
+    ],
+    "categories": [
+      "database"
+    ],
+    "slug": "[SLUG]",
+    "image": "",
+    "published": true,
+    "publishedTime": "2025-03-01T23:46:00Z",
+    "modifiedTime": "2025-03-01T23:46:00Z",
+    "openGraph": {
+      "title": "MySQL 유저 생성 명령어",
+      "description": "MySQL에서 유저를 생성하고 데이터베이스를 만드는 방법, 권한 설정에 대해 설명합니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "",
+      "publishedTime": "2025-03-01T23:46:00Z",
+      "modifiedTime": "2025-03-01T23:46:00Z"
+    },
+    "twitter": {
+      "title": "MySQL 유저 생성 명령어",
+      "description": "MySQL에서 유저를 생성하고 데이터베이스를 만드는 방법, 권한 설정에 대해 설명합니다.",
+      "images": [
+        {
+          "url": "",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "2025년 Apple Foundation @ Postech 프로그램 지원 결과",
     "description": "2025년 3월 31일 부터 진행되는 Apple Foundation @ Postech 프로그램 지원 결과에 대해 작성합니다.",
     "keywords": [
