@@ -1,5 +1,71 @@
 [
   {
+    "title": "2025년 Apple Foundation @ Postech 프로그램 지원 결과",
+    "description": "2025년 3월 31일 부터 진행되는 Apple Foundation @ Postech 프로그램 지원 결과에 대해 작성합니다.",
+    "keywords": [
+      "Apple",
+      "Postech",
+      "Foundation"
+    ],
+    "authors": [
+      {
+        "name": "WxNovic",
+        "url": "https://wxnovic.github.io"
+      }
+    ],
+    "siteName": "WxNovic",
+    "images": [
+      {
+        "url": "/assets/post/2025-02-27-001-apple-postech-foundation-001/og-image.png",
+        "width": 1200,
+        "height": 630,
+        "alt": "NO-IMAGE"
+      }
+    ],
+    "tags": [
+      "apple",
+      "postech",
+      "foundation"
+    ],
+    "categories": [
+      "story"
+    ],
+    "slug": "/post/2025-02-27-001-apple-postech-foundation-001",
+    "image": "/assets/post/2025-02-27-001-apple-postech-foundation-001/og-image.png",
+    "published": true,
+    "publishedTime": "2025-02-27T10:00:00Z",
+    "modifiedTime": "2025-02-27T10:00:00Z",
+    "openGraph": {
+      "title": "2025년 Apple Foundation @ Postech 프로그램 지원 결과",
+      "description": "2025년 3월 31일 부터 진행되는 Apple Foundation @ Postech 프로그램 지원 결과에 대해 작성합니다.",
+      "images": [
+        {
+          "url": "/assets/post/2025-02-27-001-apple-postech-foundation-001/og-image.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "type": "article",
+      "url": "",
+      "publishedTime": "2025-02-27T10:00:00Z",
+      "modifiedTime": "2025-02-27T10:00:00Z"
+    },
+    "twitter": {
+      "title": "2025년 Apple Foundation @ Postech 프로그램 지원 결과",
+      "description": "2025년 3월 31일 부터 진행되는 Apple Foundation @ Postech 프로그램 지원 결과에 대해 작성합니다.",
+      "images": [
+        {
+          "url": "/assets/post/2025-02-27-001-apple-postech-foundation-001/twitter-image.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "NO-IMAGE"
+        }
+      ],
+      "card": "summary_large_image"
+    }
+  },
+  {
     "title": "자주 사용하는 유니코드 문자 모음",
     "description": "자주 사용하는 유니코드 문자들을 정리하였습니다.",
     "keywords": [
