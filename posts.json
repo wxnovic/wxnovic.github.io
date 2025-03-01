@@ -93,7 +93,7 @@
       "ASCII"
     ],
     "slug": "/post/2025-02-25-002-ascii-code-list",
-    "image": "",
+    "image": "/assets/post/2025-02-25-002-ascii-code-list/og-image.png",
     "published": true,
     "publishedTime": "2025-02-25T22:00:00Z",
     "modifiedTime": "2025-02-25T22:00:00Z",
@@ -102,7 +102,7 @@
       "description": "ASCII Code 문자열을 표로 정리한 내용입니다.",
       "images": [
         {
-          "url": "",
+          "url": "/assets/post/2025-02-25-002-ascii-code-list/og-image.png",
           "width": 1200,
           "height": 630,
           "alt": "NO-IMAGE"
@@ -118,7 +118,7 @@
       "description": "ASCII Code 문자열을 표로 정리한 내용입니다.",
       "images": [
         {
-          "url": "",
+          "url": "/assets/post/2025-02-25-002-ascii-code-list/twitter-image.png",
           "width": 1200,
           "height": 630,
           "alt": "NO-IMAGE"
