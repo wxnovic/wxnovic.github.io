@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[90186,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-680a2247cecf2170.js"],"default"]
-3:I[1272,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-680a2247cecf2170.js"],"default"]
+2:I[12750,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-370fbbb19aca9569.js"],"default"]
+3:I[51740,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-370fbbb19aca9569.js"],"default"]
 4:I[15244,[],""]
 5:I[43866,[],""]
 7:I[86213,[],"OutletBoundary"]
@@ -8,25 +8,25 @@
 b:I[86213,[],"ViewportBoundary"]
 d:I[34835,[],""]
 :HL["/_next/static/css/acd799ec929775fa.css","style"]
-:HL["/_next/static/css/bc3ef36863f2de33.css","style"]
+:HL["/_next/static/css/368f67a53ed958a7.css","style"]
 :HL["/_next/static/css/800d9afb485bbb7d.css","style"]
-0:{"P":null,"b":"X4eJI84SKHAn-6WCK8l8e","p":"","c":["","post","2025-02-17-001-nextjs-blog-tutorial-001"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-02-17-001-nextjs-blog-tutorial-001","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/bc3ef36863f2de33.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-02-17-001-nextjs-blog-tutorial-001","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/800d9afb485bbb7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","I7sF44NuZswJWOcNSrVl3",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
-e:I[36526,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","714","static/chunks/714-1ba534d1a92702d7.js","651","static/chunks/651-957c45ffbc416624.js","627","static/chunks/app/post/%5Bslug%5D/page-714c27f922615ab4.js"],"default"]
-f:I[61891,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","714","static/chunks/714-1ba534d1a92702d7.js","651","static/chunks/651-957c45ffbc416624.js","627","static/chunks/app/post/%5Bslug%5D/page-714c27f922615ab4.js"],"default"]
-11:I[83330,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","714","static/chunks/714-1ba534d1a92702d7.js","651","static/chunks/651-957c45ffbc416624.js","627","static/chunks/app/post/%5Bslug%5D/page-714c27f922615ab4.js"],"default"]
-12:I[44091,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","714","static/chunks/714-1ba534d1a92702d7.js","651","static/chunks/651-957c45ffbc416624.js","627","static/chunks/app/post/%5Bslug%5D/page-714c27f922615ab4.js"],"default"]
-13:I[27313,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","714","static/chunks/714-1ba534d1a92702d7.js","651","static/chunks/651-957c45ffbc416624.js","627","static/chunks/app/post/%5Bslug%5D/page-714c27f922615ab4.js"],"default"]
-10:T2c92,<h2 id="1-nextjs란0" tabindex="-1">1. Next.js란?</h2>
+0:{"P":null,"b":"XRJSxV_HTA17FCUD73UST","p":"","c":["","post","2025-02-17-001-nextjs-blog-tutorial-001"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-02-17-001-nextjs-blog-tutorial-001","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/368f67a53ed958a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-02-17-001-nextjs-blog-tutorial-001","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/800d9afb485bbb7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","DWhZbl_Iw8m0wErjAvgGW",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[40698,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+f:I[25473,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+11:I[83330,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+12:I[32361,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+13:I[27313,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+10:T25c4,<h2 id="1-nextjs란0" tabindex="-1">1. Next.js란?</h2>
 <p><strong>Next.js</strong>는 React 기반의 프레임워크로, 서버 사이드 렌더링(SSR)과 정적 사이트 생성(SSG)을 지원하여 성능과 SEO 최적화가 가능합니다.
 파일 기반 라우팅, 서버 컴포넌트, API 라우트 등의 기능을 제공하며, React 애플리케이션을 더욱 효율적으로 개발할 수 있도록 돕는 프레임워크입니다.</p>
 <p>우리는 블로그를 제작하기 위해 <strong>정적 사이트 생성(SSG)</strong> 기능이 필요하기 때문에 Next.js를 활용할 것입니다. 직접 구현할 수도 있지만, Next.js가 이미 최적화된 기능을 제공하므로 이를 이용하여 블로그를 제작해 보겠습니다.</p>
 <p>먼저, Next.js를 설치하고 실행하는 방법을 살펴보겠습니다.</p>
 <hr>
 <h2 id="2-nextjs-설치-및-실행1" tabindex="-1">2. Next.js 설치 및 실행</h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</span></div><pre class="language-bash"><code><span class="hljs-string">npx</span> <span class="hljs-built_in">create-next-app@latest</span> <span class="hljs-string">my-next-app</span>
-<span class="hljs-string">cd</span> <span class="hljs-string">my-next-app</span>
-<span class="hljs-string">npm</span> <span class="hljs-string">run</span> <span class="hljs-string">dev</span>
-</code></pre></div></code></pre>
+<pre><code class="hljs language-bash">npx create-next-app@latest my-next-app
+<span class="hljs-built_in">cd</span> my-next-app
+npm run dev
+</code></pre>
 <h3 id="2-1-nextjs-설치2" tabindex="-1">2-1. Next.js 설치</h3>
 <p>위 명령어를 실행하면 설치가 완료되며, <code>http://localhost:3000</code>에 접속하면 초기 화면을 확인할 수 있습니다.</p>
 <p><img src="/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/install-next-js.jpg" alt="install-next-js"></p>
@@ -61,54 +61,54 @@ f:I[61891,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/50
 <hr>
 <h2 id="5-nextjs를-github-pages에-배포하기-위한-기본-설정8" tabindex="-1">5. Next.js를 GitHub Pages에 배포하기 위한 기본 설정</h2>
 <h3 id="5-1-nextjs-프로젝트의-nextconfigjs-수정9" tabindex="-1">5-1. Next.js 프로젝트의 <code>next.config.js</code> 수정</h3>
-<pre><code class="language-js"><div class="code-block"><div class="code-header"><span class="code-title">js</span><button class="copy-button">Copy</span></div><pre class="language-js"><code><span class="hljs-keyword">const</span> nextConfig = {
-  <span class="hljs-keyword">output</span>: <span class="hljs-string">&quot;export&quot;</span>,
+<pre><code class="hljs language-js"><span class="hljs-keyword">const</span> nextConfig = {
+  <span class="hljs-attr">output</span>: <span class="hljs-string">&quot;export&quot;</span>,
 };
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> nextConfig;
-</code></pre></div></code></pre>
+</code></pre>
 <p>위 설정을 적용하면 빌드 시 <code>out/</code> 디렉토리가 생성되며, 이 디렉토리를 GitHub Pages에 배포할 수 있습니다.</p>
 <blockquote>
 <p><strong>Note</strong>: <code>output: &quot;export&quot;</code> 옵션을 적용하면 Next.js의 렌더링 방식이 SSR(Server-Side Rendering)에서 SSG(Static Site Generation) 방식으로 변경됩니다.</p>
 </blockquote>
 <hr>
 <h2 id="6-nextjs-프로젝트를-github-저장소에-push10" tabindex="-1">6. Next.js 프로젝트를 GitHub 저장소에 Push</h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</span></div><pre class="language-bash"><code><span class="hljs-keyword">cd</span> my-<span class="hljs-keyword">next</span>-app
+<pre><code class="hljs language-bash"><span class="hljs-built_in">cd</span> my-next-app
 git init
-git <span class="hljs-built_in">add</span> .
-git commit -<span class="hljs-keyword">m</span> <span class="hljs-string">&quot;first commit&quot;</span>
-git remote <span class="hljs-built_in">add</span> origin https://github.<span class="hljs-keyword">com</span>/<span class="hljs-symbol">&lt;username&gt;</span>/<span class="hljs-symbol">&lt;username&gt;</span>.github.io
-git push -<span class="hljs-keyword">u</span> origin main
-</code></pre></div></code></pre>
+git add .
+git commit -m <span class="hljs-string">&quot;first commit&quot;</span>
+git remote add origin https://github.com/&lt;username&gt;/&lt;username&gt;.github.io
+git push -u origin main
+</code></pre>
 <p><img src="/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/first-commit.jpg" alt="first-commit"></p>
 <hr>
 <h2 id="7-gh-pages-패키지를-이용한-배포11" tabindex="-1">7. gh-pages 패키지를 이용한 배포</h2>
 <p>GitHub에 블로그 소스코드를 업로드한 후 <code>gh-pages</code> 패키지를 사용하여 간편하게 배포할 수 있습니다.</p>
 <h3 id="7-1-gh-pages-패키지-설치12" tabindex="-1">7-1. gh-pages 패키지 설치</h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</span></div><pre class="language-bash"><code>npm install gh-pages --<span class="hljs-built_in">save</span>-<span class="hljs-built_in">dev</span>
-</code></pre></div></code></pre>
+<pre><code class="hljs language-bash">npm install gh-pages --save-dev
+</code></pre>
 <h3 id="7-2-packagejson-수정-배포-스크립트-추가13" tabindex="-1">7-2. <code>package.json</code> 수정 (배포 스크립트 추가)</h3>
-<pre><code class="language-json"><div class="code-block"><div class="code-header"><span class="code-title">json</span><button class="copy-button">Copy</span></div><pre class="language-json"><code>{
-  &quot;scripts&quot;: {
-    &quot;dev&quot;: &quot;next dev&quot;,
-    &quot;<span class="hljs-keyword">build</span><span class="hljs-string">&quot;: &quot;</span>next <span class="hljs-keyword">build</span><span class="hljs-string">&quot;,
-    &quot;</span><span class="hljs-keyword">start</span><span class="hljs-string">&quot;: &quot;</span>next <span class="hljs-keyword">start</span><span class="hljs-string">&quot;,
-    &quot;</span>lint<span class="hljs-string">&quot;: &quot;</span>next lint<span class="hljs-string">&quot;,
-    &quot;</span>deploy<span class="hljs-string">&quot;: &quot;</span>npm run <span class="hljs-keyword">build</span> &amp;&amp; touch out/.nojekyll &amp;&amp; gh-pages -d out<span class="hljs-string">&quot;
-  }
-}
-</span></code></pre></div></code></pre>
+<pre><code class="hljs language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;scripts&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;dev&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next dev&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;build&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next build&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;start&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next start&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;lint&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next lint&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;deploy&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;npm run build &amp;&amp; touch out/.nojekyll &amp;&amp; gh-pages -d out&quot;</span>
+  <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
 <h3 id="7-3-배포-실행14" tabindex="-1">7-3. 배포 실행</h3>
 <p>아래 명령어를 실행하면 <code>gh-pages</code> 브랜치가 생성되며 GitHub Pages에 배포됩니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</span></div><pre class="language-bash"><code>npm <span class="hljs-built_in">run</span> deploy
-</code></pre></div></code></pre>
+<pre><code class="hljs language-bash">npm run deploy
+</code></pre>
 <p>배포가 완료되면 GitHub Pages 설정에서 <code>gh-pages</code> 브랜치를 선택해야 합니다.</p>
 <h3 id="7-4-github-pages-설정15" tabindex="-1">7-4. GitHub Pages 설정</h3>
 <p>GitHub 저장소에서 <strong>Settings → Pages</strong>로 이동하여, <strong>Source</strong>를 <code>gh-pages</code> 브랜치로 설정하면 배포된 블로그를 확인할 수 있습니다.</p>
 <p><img src="/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/github-pages-setting.png" alt="github-pages-setting"></p>
 <h3 id="7-5-배포된-사이트-확인16" tabindex="-1">7-5. 배포된 사이트 확인</h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</span></div><pre class="language-bash"><code><span class="hljs-symbol">https:</span><span class="hljs-comment">//&lt;username&gt;.github.io/</span>
-</code></pre></div></code></pre>
+<pre><code class="hljs language-bash">https://&lt;username&gt;.github.io/
+</code></pre>
 <hr>
 <h2 id="nojekyll-파일-추가-css-깨짐-해결17" tabindex="-1">.nojekyll 파일 추가 (CSS 깨짐 해결)</h2>
 <p>배포 후 CSS가 적용되지 않는 경우 <code>.nojekyll</code> 파일이 누락되었을 가능성이 있습니다.</p>
@@ -120,10 +120,10 @@ Next.js, React, Vue 등의 정적 사이트를 배포할 때 <code>.nojekyll</co
 따라서, <code>out/.nojekyll</code> 파일을 포함하여 배포해야 합니다.</p>
 </blockquote>
 <p>만약 <code>.nojekyll</code>이 push되지 않는다면 아래 명령어를 실행하세요.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</span></div><pre class="language-bash"><code>git <span class="hljs-keyword">add</span> -f <span class="hljs-keyword">out</span>/.nojekyll
+<pre><code class="hljs language-bash">git add -f out/.nojekyll
 git commit -m <span class="hljs-string">&quot;Add .nojekyll&quot;</span>
-git <span class="hljs-keyword">push</span> origin gh-pages
-</code></pre></div></code></pre>
+git push origin gh-pages
+</code></pre>
 <p>또는, GitHub에서 직접 <code>.nojekyll</code> 파일을 추가하는 방법도 있습니다.</p>
 <p><img src="/assets/post/2025-02-17-001-nextjs-blog-tutorial-001/add-nojekyll.png" alt="add-nojekyll"></p>
 <hr>
