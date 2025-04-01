@@ -10,13 +10,13 @@ d:I[34835,[],""]
 :HL["/_next/static/css/acd799ec929775fa.css","style"]
 :HL["/_next/static/css/368f67a53ed958a7.css","style"]
 :HL["/_next/static/css/800d9afb485bbb7d.css","style"]
-0:{"P":null,"b":"XRJSxV_HTA17FCUD73UST","p":"","c":["","post","2025-04-01-dophamine"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-04-01-dophamine","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/368f67a53ed958a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-04-01-dophamine","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/800d9afb485bbb7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","yHwOY8_iP9om-9F80Qium",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"2cUW4h1ffN9cW5ubo-JjO","p":"","c":["","post","2025-04-01-dophamine"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-04-01-dophamine","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/368f67a53ed958a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-04-01-dophamine","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/800d9afb485bbb7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","mUehMCwf0hnezwEb8Q7JZ",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
 e:I[40698,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
 f:I[25473,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
 11:I[83330,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
 12:I[32361,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
 13:I[27313,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
-10:T2c43,<h1 id="도파민dopamine에-대한-상세-설명0" tabindex="-1">도파민(Dopamine)에 대한 상세 설명</h1>
+10:T3b40,<h1 id="도파민dopamine에-대한-상세-설명0" tabindex="-1">도파민(Dopamine)에 대한 상세 설명</h1>
 <p>도파민은 중추신경계에서 중요한 역할을 하는 신경전달물질로, 주로 <strong>쾌감</strong>, <strong>동기부여</strong>, <strong>학습</strong>, <strong>주의집중</strong> 등을 조절합니다. 중뇌(mesencephalon)의 **치밀흑질(Substantia Nigra)**와 **복측피개영역(Ventral Tegmental Area, VTA)**에서 생성되어 여러 뇌 영역(예: 전전두엽, 변연계)으로 전달되며 다양한 기능을 수행합니다. 아래에서는 도파민의 기본 작용 원리와 “나쁜 경로” vs. “좋은 경로”로 도파민을 얻는 방식의 차이를 논문 근거와 함께 설명합니다.</p>
 <hr>
 <h2 id="1-도파민의-기본-작용1" tabindex="-1">1. 도파민의 기본 작용</h2>
@@ -166,7 +166,100 @@ f:I[25473,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/50
 <li>Schultz, W. (1998). <em>Predictive reward signal of dopamine neurons</em>. Journal of Neurophysiology.</li>
 <li>Volkow, N. D., et al. (2011). <em>Neurobiologic advances from the brain disease model of addiction</em>. New England Journal of Medicine.</li>
 </ul>
-6:[["$","$Le",null,{"children":[["$","div",null,{"className":"w-full mx-auto","children":["$","div",null,{"className":"text-xl lg:text-2xl font-bold mb-3","children":[false,["$","div",null,{"className":"prose dark:prose-invert max-w-none","children":["$","h1",null,{"className":"break-all","children":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로"}]}]]}]}],["$","div",null,{"className":"my-5 border-b-2 border-gray-600 mx-auto w-full"}],["$","div",null,{"className":"mx-auto w-full rounded-lg","children":["$","$Lf",null,{"htmlContent":"$10"}]}],["$","$L11",null,{}]]}],["$","$L12",null,{"children":["$","div",null,{"className":"h-full overflow-y-auto p-3","children":[["$","div",null,{"className":"w-full flex flex-col","children":[["$","p",null,{"className":"text-xs pe-2","children":["작성자 : ","WxNovic"]}],["$","p",null,{"className":"text-xs pe-2","children":["작성일 :"," ","2025-04-01 "]}],["$","p",null,{"className":"text-xs pe-2","children":["수정일 :"," ","2025-04-01 "]}],["$","p",null,{"className":"text-xs pe-2","children":["카테고리 : ","neuroscience"]}]]}],["$","div",null,{"className":"h-3/5 overflow-y-auto mt-3 text-gray-400","children":["$","$L13",null,{"toc":"<ul><li class=\"text-xs \"><a href=\"#도파민dopamine에-대한-상세-설명0\">도파민(Dopamine)에 대한 상세 설명</a><ul><li class=\"text-xs \"><a href=\"#1-도파민의-기본-작용1\">1. 도파민의 기본 작용</a></li><li class=\"text-xs \"><a href=\"#2-나쁜-경로로-얻는-도파민2\">2. “나쁜 경로”로 얻는 도파민</a></li><li class=\"text-xs \"><a href=\"#3-좋은-경로로-얻는-도파민3\">3. “좋은 경로”로 얻는 도파민</a></li><li class=\"text-xs \"><a href=\"#4-나쁜-경로와-좋은-경로의-차이점4\">4. 나쁜 경로와 좋은 경로의 차이점</a></li><li class=\"text-xs \"><a href=\"#5-결론5\">5. 결론</a><ul><li class=\"text-xs \"><a href=\"#참고문헌6\">참고문헌</a></li></ul></li></ul></li></ul>"}]}]]}]}]]
+<hr>
+<hr>
+<hr>
+<h1 id="도파민dopamine에-대한-정리7" tabindex="-1">🧠 도파민(Dopamine)에 대한 정리</h1>
+<p>도파민은 중추신경계에서 작용하는 주요 신경전달물질로, <strong>쾌락, 동기부여, 보상, 운동 조절, 학습</strong> 등에 핵심적인 역할을 합니다.</p>
+<hr>
+<h2 id="1-도파민의-주요-경로8" tabindex="-1">1. 도파민의 주요 경로</h2>
+<h3 id="1-메솔림빅-경로-mesolimbic-pathway9" tabindex="-1">① 메솔림빅 경로 (Mesolimbic Pathway)</h3>
+<ul>
+<li><strong>기능</strong>: 보상, 쾌락, 중독에 관여</li>
+<li><strong>경로</strong>: 복측피개영역(VTA) → 측좌핵(nucleus accumbens)</li>
+<li><strong>특징</strong>: 도파민이 증가하면 쾌감 및 보상 감각. 중독과 밀접한 관련</li>
+</ul>
+<h3 id="2-메소피질-경로-mesocortical-pathway10" tabindex="-1">② 메소피질 경로 (Mesocortical Pathway)</h3>
+<ul>
+<li><strong>기능</strong>: 인지 기능, 계획, 의사결정</li>
+<li><strong>경로</strong>: 복측피개영역(VTA) → 전전두엽(prefrontal cortex)</li>
+<li><strong>특징</strong>: 기능 저하는 우울증 및 조현병의 음성 증상과 관련</li>
+</ul>
+<h3 id="3-니그로스트리아탈-경로-nigrostriatal-pathway11" tabindex="-1">③ 니그로스트리아탈 경로 (Nigrostriatal Pathway)</h3>
+<ul>
+<li><strong>기능</strong>: 운동 조절</li>
+<li><strong>경로</strong>: 흑질(substantia nigra) → 선조체(striatum)</li>
+<li><strong>특징</strong>: 도파민 뉴런 퇴행 시 파킨슨병 발생</li>
+</ul>
+<h3 id="4-튜버인푸디불라-경로-tuberoinfundibular-pathway12" tabindex="-1">④ 튜버인푸디불라 경로 (Tuberoinfundibular Pathway)</h3>
+<ul>
+<li><strong>기능</strong>: 호르몬(특히 프로락틴) 조절</li>
+<li><strong>경로</strong>: 시상하부 → 뇌하수체 전엽</li>
+<li><strong>특징</strong>: 도파민 저하는 프로락틴 과다 분비 유발</li>
+</ul>
+<hr>
+<h2 id="2-도파민-관련-질환13" tabindex="-1">2. 도파민 관련 질환</h2>
+<table>
+<thead>
+<tr>
+<th>질환명</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>파킨슨병</strong></td>
+<td>도파민 뉴런 손실로 운동 장애 발생. 치료는 L-DOPA 투여</td>
+</tr>
+<tr>
+<td><strong>조현병</strong></td>
+<td>도파민 과잉(메솔림빅 경로)이 환각, 망상 유발</td>
+</tr>
+<tr>
+<td><strong>우울증</strong></td>
+<td>도파민 저하로 동기 결핍, 무기력</td>
+</tr>
+<tr>
+<td><strong>ADHD</strong></td>
+<td>도파민 수용체 기능 이상 → 집중력 및 충동 조절 문제</td>
+</tr>
+<tr>
+<td><strong>중독</strong></td>
+<td>도파민 시스템 과활성 → 약물, 도박, SNS 등 중독 유발</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="3-도파민의-생합성과-대사14" tabindex="-1">3. 도파민의 생합성과 대사</h2>
+<ul>
+<li>
+<p><strong>합성 경로</strong>:<br>
+<code>타이로신(tyrosine)</code> → <code>L-DOPA</code> → <code>도파민</code> → (노르에피네프린 → 에피네프린 가능)</p>
+</li>
+<li>
+<p><strong>분해 효소</strong>:</p>
+<ul>
+<li><strong>MAO</strong> (Monoamine Oxidase)</li>
+<li><strong>COMT</strong> (Catechol-O-Methyltransferase)</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="4-참고-논문15" tabindex="-1">4. 참고 논문</h2>
+<ul>
+<li>
+<p><strong>Schultz, W. (1998)</strong><br>
+<em>Predictive reward signal of dopamine neurons</em><br>
+→ 도파민 뉴런은 &quot;보상 그 자체&quot;보다 <strong>보상의 예측</strong>에 반응</p>
+</li>
+<li>
+<p><strong>Berridge, K. C., &amp; Robinson, T. E. (1998)</strong><br>
+<em>What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?</em><br>
+→ 도파민은 &quot;좋아함(liking)&quot;보다 &quot;원함(wanting)&quot;에 더 깊게 관여</p>
+</li>
+</ul>
+<hr>
+14:T73d,<ul><li class="text-xs "><a href="#도파민dopamine에-대한-상세-설명0">도파민(Dopamine)에 대한 상세 설명</a><ul><li class="text-xs "><a href="#1-도파민의-기본-작용1">1. 도파민의 기본 작용</a></li><li class="text-xs "><a href="#2-나쁜-경로로-얻는-도파민2">2. “나쁜 경로”로 얻는 도파민</a></li><li class="text-xs "><a href="#3-좋은-경로로-얻는-도파민3">3. “좋은 경로”로 얻는 도파민</a></li><li class="text-xs "><a href="#4-나쁜-경로와-좋은-경로의-차이점4">4. 나쁜 경로와 좋은 경로의 차이점</a></li><li class="text-xs "><a href="#5-결론5">5. 결론</a><ul><li class="text-xs "><a href="#참고문헌6">참고문헌</a></li></ul></li></ul></li><li class="text-xs "><a href="#도파민dopamine에-대한-정리7">🧠 도파민(Dopamine)에 대한 정리</a><ul><li class="text-xs "><a href="#1-도파민의-주요-경로8">1. 도파민의 주요 경로</a><ul><li class="text-xs "><a href="#1-메솔림빅-경로-mesolimbic-pathway9">① 메솔림빅 경로 (Mesolimbic Pathway)</a></li><li class="text-xs "><a href="#2-메소피질-경로-mesocortical-pathway10">② 메소피질 경로 (Mesocortical Pathway)</a></li><li class="text-xs "><a href="#3-니그로스트리아탈-경로-nigrostriatal-pathway11">③ 니그로스트리아탈 경로 (Nigrostriatal Pathway)</a></li><li class="text-xs "><a href="#4-튜버인푸디불라-경로-tuberoinfundibular-pathway12">④ 튜버인푸디불라 경로 (Tuberoinfundibular Pathway)</a></li></ul></li><li class="text-xs "><a href="#2-도파민-관련-질환13">2. 도파민 관련 질환</a></li><li class="text-xs "><a href="#3-도파민의-생합성과-대사14">3. 도파민의 생합성과 대사</a></li><li class="text-xs "><a href="#4-참고-논문15">4. 참고 논문</a></li></ul></li></ul>6:[["$","$Le",null,{"children":[["$","div",null,{"className":"w-full mx-auto","children":["$","div",null,{"className":"text-xl lg:text-2xl font-bold mb-3","children":[false,["$","div",null,{"className":"prose dark:prose-invert max-w-none","children":["$","h1",null,{"className":"break-all","children":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로"}]}]]}]}],["$","div",null,{"className":"my-5 border-b-2 border-gray-600 mx-auto w-full"}],["$","div",null,{"className":"mx-auto w-full rounded-lg","children":["$","$Lf",null,{"htmlContent":"$10"}]}],["$","$L11",null,{}]]}],["$","$L12",null,{"children":["$","div",null,{"className":"h-full overflow-y-auto p-3","children":[["$","div",null,{"className":"w-full flex flex-col","children":[["$","p",null,{"className":"text-xs pe-2","children":["작성자 : ","WxNovic"]}],["$","p",null,{"className":"text-xs pe-2","children":["작성일 :"," ","2025-04-01 "]}],["$","p",null,{"className":"text-xs pe-2","children":["수정일 :"," ","2025-04-01 "]}],["$","p",null,{"className":"text-xs pe-2","children":["카테고리 : ","neuroscience"]}]]}],["$","div",null,{"className":"h-3/5 overflow-y-auto mt-3 text-gray-400","children":["$","$L13",null,{"toc":"$14"}]}]]}]}]]
 c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","2",{"name":"description","content":"도파민의 신경생리학적 작용과 함께, 약물·도박 등 나쁜 경로로 얻는 도파민과 운동·명상 등 좋은 경로로 얻는 도파민의 차이를 논문 기반으로 상세히 설명합니다."}],["$","link","3",{"rel":"author","href":"https://wxnovic.github.io"}],["$","meta","4",{"name":"author","content":"WxNovic"}],["$","meta","5",{"name":"keywords","content":"도파민,중독,보상회로,정신건강,운동,명상"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"custom-meta","content":"IT 기술 블로그, Next.js 활용, SEO 최적화, 웹 개발 트렌드, 아이디어 공유"}],["$","link","8",{"rel":"canonical","href":"https://wxnovic.github.iodopamine-good-vs-bad"}],["$","meta","9",{"property":"og:title","content":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","10",{"property":"og:description","content":"도파민의 작용 원리와, 중독성 자극과 건강한 습관이 도파민 시스템에 미치는 영향을 논문 중심으로 해석합니다."}],["$","meta","11",{"property":"og:url","content":"https://wxnovic.github.io/"}],["$","meta","12",{"property":"og:image","content":"https://wxnovic.github.io/og-image.jpg"}],["$","meta","13",{"property":"og:image:width","content":"1000"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로 | WxNovic"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2025-04-01T08:00:00Z"}],["$","meta","18",{"property":"article:modified_time","content":"2025-04-01T08:00:00Z"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","21",{"name":"twitter:description","content":"도파민 시스템은 어떻게 작동하며, 어떤 경로로 자극받는지가 왜 중요한지를 알아봅니다."}],["$","meta","22",{"name":"twitter:image","content":"https://wxnovic.github.io/twitter-image.jpg"}],["$","meta","23",{"name":"twitter:image:width","content":"1000"}],["$","meta","24",{"name":"twitter:image:height","content":"630"}],["$","meta","25",{"name":"twitter:image:alt","content":"도파민의 작용과 중독: 나쁜 경로 vs 좋은 경로 | WxNovic"}],["$","link","26",{"rel":"icon","href":"/favicon.ico"}],["$","link","27",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]]
 8:null
