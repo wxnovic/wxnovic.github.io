@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[12750,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-370fbbb19aca9569.js"],"default"]
+3:I[51740,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-370fbbb19aca9569.js"],"default"]
+4:I[15244,[],""]
+5:I[43866,[],""]
+7:I[86213,[],"OutletBoundary"]
+9:I[86213,[],"MetadataBoundary"]
+b:I[86213,[],"ViewportBoundary"]
+d:I[34835,[],""]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/368f67a53ed958a7.css","style"]
+:HL["/_next/static/css/800d9afb485bbb7d.css","style"]
+0:{"P":null,"b":"72_79LoXoabLNIbzayqbL","p":"","c":["","post","2025-04-04-dophamine-5"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-04-04-dophamine-5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/368f67a53ed958a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-04-04-dophamine-5","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/800d9afb485bbb7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","WCCBykozbm8UjfHwvgzH9",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[40698,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+f:I[25473,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+11:I[83330,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+12:I[32361,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+13:I[27313,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+10:T1461,<h1 id="장기-보상체계에-적응하고-지속하는-방법0" tabindex="-1">장기 보상체계에 적응하고 지속하는 방법</h1>
+<p>많은 사람들이 단기적인 만족은 잘 추구하지만, 장기적인 목표는 중간에 포기하곤 한다. 이 글에서는 <strong>장기 보상 시스템에 뇌가 어떻게 적응할 수 있는지</strong>, 그리고 <strong>그 상태를 장기간 유지하는 심리학적 전략</strong>들을 다룬다.</p>
+<hr>
+<h2 id="왜-장기-보상은-어렵고-지속은-더-어려운가1" tabindex="-1">🧠 왜 장기 보상은 어렵고, 지속은 더 어려운가?</h2>
+<table>
+<thead>
+<tr>
+<th>요소</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>시간 할인(time discounting)</td>
+<td>미래 보상을 뇌는 '덜 가치 있게' 인식</td>
+</tr>
+<tr>
+<td>도파민 민감도</td>
+<td>단기 자극에 길들여진 뇌는 느린 보상에 반응하지 않음</td>
+</tr>
+<tr>
+<td>자기정체성 결여</td>
+<td>'나는 원래 작심삼일이야' 같은 자기 인식이 지속을 방해</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>📚 Kahneman &amp; Tversky, 1979. &quot;Prospect Theory: An Analysis of Decision under Risk&quot;<br>
+📚 Volkow et al., 2011. &quot;Addiction and reward sensitivity&quot; [PMID: 21685775]</p>
+</blockquote>
+<hr>
+<h2 id="장기-보상-체계에-적응하는-핵심-전략2" tabindex="-1">🔁 장기 보상 체계에 적응하는 핵심 전략</h2>
+<h3 id="1-보상을-재구조화하라3" tabindex="-1">✅ 1. 보상을 재구조화하라</h3>
+<ul>
+<li>장기 목표를 달성하는 과정에 <strong>작은 즉각적 보상</strong>을 심어주자.</li>
+<li>도파민은 “지금 무언가를 했을 때”를 기준으로 작동한다.</li>
+</ul>
+<p><strong>예시:</strong></p>
+<ul>
+<li>글쓰기 10분 → Progress Bar 증가</li>
+<li>3일 연속 운동 → 앱 뱃지 지급</li>
+</ul>
+<blockquote>
+<p>📚 BJ Fogg's Tiny Habits Model (2009):<br>
+“작은 성공이 쌓이면 뇌는 장기 습관을 유지하게 된다.”</p>
+</blockquote>
+<hr>
+<h3 id="2-피드백을-시각화하라4" tabindex="-1">✅ 2. 피드백을 시각화하라</h3>
+<ul>
+<li>습관 추적기, 그래프, streak 시스템 등을 활용하면 뇌의 ‘진행감’을 자극할 수 있음</li>
+<li>장기 보상도 <em>눈에 보이는 시스템</em>이 되어야 한다</li>
+</ul>
+<pre><code class="hljs"><span class="hljs-attribute">추천 도구</span><span class="hljs-punctuation">:</span>
+<span class="hljs-bullet">-</span> <span class="hljs-string">Loop Habit Tracker</span>
+<span class="hljs-bullet">-</span> <span class="hljs-string">Notion + 차트 위젯</span>
+<span class="hljs-bullet">-</span> <span class="hljs-string">GitHub Contributions Heatmap 패턴 응용</span>
+</code></pre>
+<hr>
+<h3 id="3-정체성-기반-루틴으로-전환하라5" tabindex="-1">✅ 3. 정체성 기반 루틴으로 전환하라</h3>
+<ul>
+<li>“나는 책을 읽는 사람이다” → 정체성에 기반한 행동은 더 오래 지속됨</li>
+<li>목표 기반이 아닌 <strong>정체성 기반 루틴</strong>이 지속성에 유리</li>
+</ul>
+<blockquote>
+<p>📚 James Clear, <em>Atomic Habits</em><br>
+“행동은 목표가 아니라, 정체성으로부터 출발해야 한다.”</p>
+</blockquote>
+<hr>
+<h3 id="4-트리거와-환경을-설계하라6" tabindex="-1">✅ 4. 트리거와 환경을 설계하라</h3>
+<ul>
+<li>아침 기상 후 바로 걷기</li>
+<li>책상 옆에 책 놓기</li>
+<li>식사 후 명상 앱 알림 받기<br>
+→ <em>행동이 저절로 일어나게 만드는 환경 설계</em></li>
+</ul>
+<hr>
+<h3 id="5-미래-자아와의-연결을-강화하라7" tabindex="-1">✅ 5. 미래 자아와의 연결을 강화하라</h3>
+<ul>
+<li>미래의 나를 구체적으로 상상할수록 장기 보상 행동은 쉬워짐</li>
+<li>나이든 나의 모습 시각화, 1년 뒤 내게 편지 쓰기 등</li>
+</ul>
+<blockquote>
+<p>📚 Hal Hershfield, 2011. &quot;Future Self &amp; Financial Decision Making&quot;<br>
+DOI: <a href="https://doi.org/10.2139/ssrn.1930022">10.2139/ssrn.1930022</a></p>
+</blockquote>
+<hr>
+<h2 id="유지의-열쇠는-정체성이다8" tabindex="-1">🧩 유지의 열쇠는 '정체성'이다</h2>
+<p>단기 동기(의욕)는 오래가지 않지만, 정체성과 환경은 강력한 유지력을 가진다.<br>
+결국 우리는 '행동하는 사람'이 아니라, <strong>그런 사람으로 살기로 선택한 인간</strong>일 때 오래 지속할 수 있다.</p>
+<hr>
+<h2 id="정리-요약9" tabindex="-1">✅ 정리 요약</h2>
+<table>
+<thead>
+<tr>
+<th>전략</th>
+<th>설명</th>
+<th>핵심 키워드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>보상 구조화</td>
+<td>작은 행동에 즉시 보상 연결</td>
+<td>도파민, 루틴</td>
+</tr>
+<tr>
+<td>피드백 시각화</td>
+<td>체크리스트, 그래프</td>
+<td>진척도, 트래커</td>
+</tr>
+<tr>
+<td>정체성 루틴</td>
+<td>&quot;나는 ○○인 사람이다&quot;</td>
+<td>자기인식</td>
+</tr>
+<tr>
+<td>환경 설계</td>
+<td>습관이 쉬워지는 구조</td>
+<td>트리거</td>
+</tr>
+<tr>
+<td>미래 자아 연결</td>
+<td>장기 보상의 감정적 연동</td>
+<td>시뮬레이션</td>
+</tr>
+</tbody>
+</table>
+<hr>
+6:[["$","$Le",null,{"children":[["$","div",null,{"className":"w-full mx-auto","children":["$","div",null,{"className":"text-xl lg:text-2xl font-bold mb-3","children":[false,["$","div",null,{"className":"prose dark:prose-invert max-w-none","children":["$","h1",null,{"className":"break-all","children":"장기 보상체계에 적응하고 지속하는 방법"}]}]]}]}],["$","div",null,{"className":"my-5 border-b-2 border-gray-600 mx-auto w-full"}],["$","div",null,{"className":"mx-auto w-full rounded-lg","children":["$","$Lf",null,{"htmlContent":"$10"}]}],["$","$L11",null,{}]]}],["$","$L12",null,{"children":["$","div",null,{"className":"h-full overflow-y-auto p-3","children":[["$","div",null,{"className":"w-full flex flex-col","children":[["$","p",null,{"className":"text-xs pe-2","children":["작성자 : ","WxNovic"]}],["$","p",null,{"className":"text-xs pe-2","children":["작성일 :"," ","2025-04-04 "]}],["$","p",null,{"className":"text-xs pe-2","children":["수정일 :"," ","2025-04-04 "]}],["$","p",null,{"className":"text-xs pe-2","children":["카테고리 : ","psychology"]}]]}],["$","div",null,{"className":"h-3/5 overflow-y-auto mt-3 text-gray-400","children":["$","$L13",null,{"toc":"<ul><li class=\"text-xs \"><a href=\"#장기-보상체계에-적응하고-지속하는-방법0\">장기 보상체계에 적응하고 지속하는 방법</a><ul><li class=\"text-xs \"><a href=\"#왜-장기-보상은-어렵고-지속은-더-어려운가1\">🧠 왜 장기 보상은 어렵고, 지속은 더 어려운가?</a></li><li class=\"text-xs \"><a href=\"#장기-보상-체계에-적응하는-핵심-전략2\">🔁 장기 보상 체계에 적응하는 핵심 전략</a><ul><li class=\"text-xs \"><a href=\"#1-보상을-재구조화하라3\">✅ 1. 보상을 재구조화하라</a></li><li class=\"text-xs \"><a href=\"#2-피드백을-시각화하라4\">✅ 2. 피드백을 시각화하라</a></li><li class=\"text-xs \"><a href=\"#3-정체성-기반-루틴으로-전환하라5\">✅ 3. 정체성 기반 루틴으로 전환하라</a></li><li class=\"text-xs \"><a href=\"#4-트리거와-환경을-설계하라6\">✅ 4. 트리거와 환경을 설계하라</a></li><li class=\"text-xs \"><a href=\"#5-미래-자아와의-연결을-강화하라7\">✅ 5. 미래 자아와의 연결을 강화하라</a></li></ul></li><li class=\"text-xs \"><a href=\"#유지의-열쇠는-정체성이다8\">🧩 유지의 열쇠는 '정체성'이다</a></li><li class=\"text-xs \"><a href=\"#정리-요약9\">✅ 정리 요약</a></li></ul></li></ul>"}]}]]}]}]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"장기 보상체계에 적응하고 지속하는 방법 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","2",{"name":"description","content":"즉각적 보상에서 벗어나 장기적인 목표와 보상에 적응하고, 이를 꾸준히 유지하기 위한 행동심리학과 신경과학 기반 전략을 정리합니다."}],["$","link","3",{"rel":"author","href":"https://wxnovic.github.io"}],["$","meta","4",{"name":"author","content":"WxNovic"}],["$","meta","5",{"name":"keywords","content":"장기 보상,습관 유지,자기조절,행동과학,동기,보상 루프"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"custom-meta","content":"IT 기술 블로그, Next.js 활용, SEO 최적화, 웹 개발 트렌드, 아이디어 공유"}],["$","link","8",{"rel":"canonical","href":"https://wxnovic.github.ioadapt-and-maintain-longterm-reward"}],["$","meta","9",{"property":"og:title","content":"장기 보상체계에 적응하고 지속하는 방법 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","10",{"property":"og:description","content":"뇌가 단기 보상에서 장기 보상 중심으로 전환하고, 그 시스템을 장기적으로 유지하는 방법을 과학적으로 분석합니다."}],["$","meta","11",{"property":"og:image","content":"https://wxnovic.github.io/images/long-term-reward-loop.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"보상 구조 도식"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-04-04T10:00:00Z"}],["$","meta","17",{"property":"article:modified_time","content":"2025-04-04T10:00:00Z"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"장기 보상체계에 적응하고 지속하는 방법 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","20",{"name":"twitter:description","content":"장기적 목표를 꾸준히 이어가기 위해 필요한 보상 설계, 정체성 전환, 동기 유지 전략을 과학적으로 정리했습니다."}],["$","meta","21",{"name":"twitter:image","content":"https://wxnovic.github.io/images/long-term-reward-loop.png"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","meta","24",{"name":"twitter:image:alt","content":"장기 보상 인포그래픽"}],["$","link","25",{"rel":"icon","href":"/favicon.ico"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]]
+8:null

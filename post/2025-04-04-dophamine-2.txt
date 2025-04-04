@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[12750,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-370fbbb19aca9569.js"],"default"]
+3:I[51740,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","177","static/chunks/app/layout-370fbbb19aca9569.js"],"default"]
+4:I[15244,[],""]
+5:I[43866,[],""]
+7:I[86213,[],"OutletBoundary"]
+9:I[86213,[],"MetadataBoundary"]
+b:I[86213,[],"ViewportBoundary"]
+d:I[34835,[],""]
+:HL["/_next/static/css/acd799ec929775fa.css","style"]
+:HL["/_next/static/css/368f67a53ed958a7.css","style"]
+:HL["/_next/static/css/800d9afb485bbb7d.css","style"]
+0:{"P":null,"b":"72_79LoXoabLNIbzayqbL","p":"","c":["","post","2025-04-04-dophamine-2"],"i":false,"f":[[["",{"children":["post",{"children":[["slug","2025-04-04-dophamine-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/acd799ec929775fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/368f67a53ed958a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["post",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","2025-04-04-dophamine-2","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","post","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/800d9afb485bbb7d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","_MnEqF9P2O0gztcWB9TRl",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],null]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[40698,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+f:I[25473,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+11:I[83330,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+12:I[32361,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+13:I[27313,["173","static/chunks/173-028d72cc7968bb08.js","505","static/chunks/505-d2f7427799cab109.js","651","static/chunks/651-eb39763b7d0fbbb9.js","627","static/chunks/app/post/%5Bslug%5D/page-ab80e360e76f1c0b.js"],"default"]
+10:T15b7,<h1 id="도파민-중독과-회복-나쁜-자극-vs-좋은-자극0" tabindex="-1">도파민 중독과 회복: 나쁜 자극 vs 좋은 자극</h1>
+<p>도파민은 우리의 의사결정, 동기, 보상 기대에 핵심적인 역할을 하는 신경전달물질이다. 하지만 이 도파민 시스템은 쉽게 ‘왜곡’되며 중독으로 이어질 수 있다. 이 글에서는 **나쁜 자극(약물, SNS 등)**을 통해 도파민 시스템이 어떻게 중독되고, 반대로 **좋은 자극(운동, 명상 등)**이 어떻게 회복을 도울 수 있는지를 <strong>논문 기반으로</strong> 정리한다.</p>
+<hr>
+<h2 id="도파민의-기본-작용-원리1" tabindex="-1">🧠 도파민의 기본 작용 원리</h2>
+<p>도파민은 주로 다음 세 가지 뇌 부위에 작용한다:</p>
+<ul>
+<li><strong>측좌핵(Nucleus Accumbens)</strong>: 즉각적 보상에 반응하는 영역</li>
+<li><strong>복측피개영역(Ventral Tegmental Area, VTA)</strong>: 도파민을 생성하는 중심</li>
+<li><strong>전전두엽(Prefrontal Cortex)</strong>: 장기 목표와 자기통제를 담당</li>
+</ul>
+<blockquote>
+<p>📚 <em>참고 논문: McClure et al. (2004). &quot;Separate neural systems value immediate and delayed monetary rewards.&quot;</em><br>
+DOI: <a href="https://doi.org/10.1126/science.1100907">10.1126/science.1100907</a></p>
+</blockquote>
+<hr>
+<h2 id="나쁜-자극-도파민-중독-경로2" tabindex="-1">🚨 나쁜 자극: 도파민 중독 경로</h2>
+<p>약물, 도박, SNS, 초고당 음식 등은 <strong>강력한 도파민 분비</strong>를 유도하며, 뇌의 보상 시스템을 과도하게 자극한다. 이로 인해 다음과 같은 변화가 나타난다:</p>
+<ul>
+<li><strong>감각 둔화(Sensitization)</strong>: 같은 자극에도 만족을 느끼지 못함</li>
+<li><strong>도파민 수용체 감소(Downregulation)</strong>: 더 큰 자극을 원하게 됨</li>
+<li><strong>통제력 저하</strong>: 전전두엽 기능 저하 → 자기조절 능력 상실</li>
+</ul>
+<blockquote>
+<p>📚 <em>참고 논문: Volkow et al. (2011). &quot;Addiction: Decreased reward sensitivity and increased expectation sensitivity.&quot;</em><br>
+PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/21685775/">21685775</a></p>
+</blockquote>
+<hr>
+<h2 id="좋은-자극-도파민-회복-경로3" tabindex="-1">🌱 좋은 자극: 도파민 회복 경로</h2>
+<p>다행히 도파민 시스템은 회복 가능하다. 운동, 명상, 창의 활동 같은 <strong>비강제적이고 지속 가능한 자극</strong>은 다음과 같은 긍정적 영향을 준다:</p>
+<ul>
+<li><strong>도파민 수용체 민감도 회복</strong></li>
+<li><strong>전전두엽 기능 강화 → 자기통제력 향상</strong></li>
+<li><strong>행복 호르몬(세로토닌, 옥시토신 등)과의 조화로운 분비</strong></li>
+</ul>
+<blockquote>
+<p>📚 <em>참고 논문: Tang et al. (2015). &quot;The neuroscience of mindfulness meditation.&quot;</em><br>
+DOI: <a href="https://doi.org/10.1038/nrn3916">10.1038/nrn3916</a></p>
+</blockquote>
+<hr>
+<h2 id="도파민-중독에서-벗어나기-위한-전략4" tabindex="-1">🔄 도파민 중독에서 벗어나기 위한 전략</h2>
+<h3 id="1-도파민-디톡스dopamine-detox5" tabindex="-1">1. 도파민 디톡스(Dopamine Detox)</h3>
+<ul>
+<li>SNS, 유튜브, 자극적 음식, 게임 등을 24시간 이상 제한</li>
+<li>초기에는 무기력할 수 있으나, 뇌의 민감도가 회복됨</li>
+</ul>
+<h3 id="2-미래-자아와의-연결-강화6" tabindex="-1">2. 미래 자아와의 연결 강화</h3>
+<ul>
+<li>미래 자신의 모습을 시각화하면 장기적 결정을 더 잘함</li>
+<li><strong>Hal Hershfield 실험(2011)</strong>: 노화된 자신의 얼굴을 본 피실험자들이 은퇴 자금을 더 잘 저축함</li>
+</ul>
+<blockquote>
+<p>📚 Hershfield et al. (2011). &quot;Increasing Saving Behavior Through Age-Progressed Renderings of the Future Self.&quot;<br>
+DOI: <a href="https://doi.org/10.2139/ssrn.1930022">10.2139/ssrn.1930022</a></p>
+</blockquote>
+<h3 id="3-작은-습관-루틴-보상-시각화7" tabindex="-1">3. 작은 습관 루틴 + 보상 시각화</h3>
+<ul>
+<li>매일 할 수 있는 <strong>작은 목표 설정 + 즉시 피드백 제공</strong></li>
+<li>예:
+<ul>
+<li>운동 10분 → 체크 표시</li>
+<li>명상 5분 → 앱에서 ‘뱃지’ 제공</li>
+</ul>
+</li>
+</ul>
+<pre><code class="hljs"><span class="hljs-attribute">🎯 추천 앱</span><span class="hljs-punctuation">:</span>
+<span class="hljs-bullet">-</span> <span class="hljs-string">Habitica: RPG 기반 습관관리 앱</span>
+<span class="hljs-bullet">-</span> <span class="hljs-string">Loop Habit Tracker: Android용 간단하고 직관적인 습관 추적기</span>
+<span class="hljs-bullet">-</span> <span class="hljs-string">Forest: 집중 타이머로 뇌 보상 루프 전환</span>
+</code></pre>
+<hr>
+<h2 id="요약8" tabindex="-1">✅ 요약</h2>
+<table>
+<thead>
+<tr>
+<th>구분</th>
+<th>나쁜 자극 경로</th>
+<th>좋은 자극 경로</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>자극 예시</td>
+<td>SNS, 게임, 설탕, 도박, 약물</td>
+<td>운동, 명상, 글쓰기, 독서</td>
+</tr>
+<tr>
+<td>도파민 반응</td>
+<td>과도한 분비 → 둔감화</td>
+<td>적절한 분비 → 회복</td>
+</tr>
+<tr>
+<td>뇌 변화</td>
+<td>수용체 감소, 충동성 증가</td>
+<td>전전두엽 강화, 자기조절 향상</td>
+</tr>
+<tr>
+<td>결과</td>
+<td>중독, 우울, 무기력</td>
+<td>동기 부여, 평온함, 지속력</td>
+</tr>
+</tbody>
+</table>
+<hr>
+6:[["$","$Le",null,{"children":[["$","div",null,{"className":"w-full mx-auto","children":["$","div",null,{"className":"text-xl lg:text-2xl font-bold mb-3","children":[false,["$","div",null,{"className":"prose dark:prose-invert max-w-none","children":["$","h1",null,{"className":"break-all","children":"도파민 중독과 회복: 나쁜 자극 vs 좋은 자극"}]}]]}]}],["$","div",null,{"className":"my-5 border-b-2 border-gray-600 mx-auto w-full"}],["$","div",null,{"className":"mx-auto w-full rounded-lg","children":["$","$Lf",null,{"htmlContent":"$10"}]}],["$","$L11",null,{}]]}],["$","$L12",null,{"children":["$","div",null,{"className":"h-full overflow-y-auto p-3","children":[["$","div",null,{"className":"w-full flex flex-col","children":[["$","p",null,{"className":"text-xs pe-2","children":["작성자 : ","WxNovic"]}],["$","p",null,{"className":"text-xs pe-2","children":["작성일 :"," ","2025-04-04 "]}],["$","p",null,{"className":"text-xs pe-2","children":["수정일 :"," ","2025-04-04 "]}],["$","p",null,{"className":"text-xs pe-2","children":["카테고리 : ","neuroscience"]}]]}],["$","div",null,{"className":"h-3/5 overflow-y-auto mt-3 text-gray-400","children":["$","$L13",null,{"toc":"<ul><li class=\"text-xs \"><a href=\"#도파민-중독과-회복-나쁜-자극-vs-좋은-자극0\">도파민 중독과 회복: 나쁜 자극 vs 좋은 자극</a><ul><li class=\"text-xs \"><a href=\"#도파민의-기본-작용-원리1\">🧠 도파민의 기본 작용 원리</a></li><li class=\"text-xs \"><a href=\"#나쁜-자극-도파민-중독-경로2\">🚨 나쁜 자극: 도파민 중독 경로</a></li><li class=\"text-xs \"><a href=\"#좋은-자극-도파민-회복-경로3\">🌱 좋은 자극: 도파민 회복 경로</a></li><li class=\"text-xs \"><a href=\"#도파민-중독에서-벗어나기-위한-전략4\">🔄 도파민 중독에서 벗어나기 위한 전략</a><ul><li class=\"text-xs \"><a href=\"#1-도파민-디톡스dopamine-detox5\">1. 도파민 디톡스(Dopamine Detox)</a></li><li class=\"text-xs \"><a href=\"#2-미래-자아와의-연결-강화6\">2. 미래 자아와의 연결 강화</a></li><li class=\"text-xs \"><a href=\"#3-작은-습관-루틴-보상-시각화7\">3. 작은 습관 루틴 + 보상 시각화</a></li></ul></li><li class=\"text-xs \"><a href=\"#요약8\">✅ 요약</a></li></ul></li></ul>"}]}]]}]}]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"도파민 중독과 회복: 나쁜 자극 vs 좋은 자극 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","2",{"name":"description","content":"도파민 중독의 신경과학적 기전을 밝히고, 중독적 자극(약물, SNS 등)과 건강한 자극(운동, 명상 등)의 경로 차이를 논문 기반으로 비교 분석합니다."}],["$","link","3",{"rel":"author","href":"https://wxnovic.github.io"}],["$","meta","4",{"name":"author","content":"WxNovic"}],["$","meta","5",{"name":"keywords","content":"도파민,중독,보상회로,도파민 디톡스,명상,운동,뇌과학"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"custom-meta","content":"IT 기술 블로그, Next.js 활용, SEO 최적화, 웹 개발 트렌드, 아이디어 공유"}],["$","link","8",{"rel":"canonical","href":"https://wxnovic.github.iodopamine-addiction-vs-recovery"}],["$","meta","9",{"property":"og:title","content":"도파민 중독과 회복: 나쁜 자극 vs 좋은 자극 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","10",{"property":"og:description","content":"도파민의 작용 원리와 중독성 자극, 그리고 회복을 위한 건강한 경로를 신경과학 논문을 바탕으로 해석합니다."}],["$","meta","11",{"property":"og:image","content":"https://wxnovic.github.io/images/dopamine-pathways.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"도파민 작용 경로 이미지"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-04-04T08:00:00Z"}],["$","meta","17",{"property":"article:modified_time","content":"2025-04-04T08:00:00Z"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"도파민 중독과 회복: 나쁜 자극 vs 좋은 자극 | WxNovic - 아이디어와 IT 기술의 기록 공간"}],["$","meta","20",{"name":"twitter:description","content":"도파민 시스템은 어떻게 중독에 빠지고, 어떻게 회복될 수 있을까? 과학적 논문으로 살펴보는 도파민의 두 얼굴."}],["$","meta","21",{"name":"twitter:image","content":"https://wxnovic.github.io/images/dopamine-pathways.png"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","meta","24",{"name":"twitter:image:alt","content":"도파민 회복 이미지"}],["$","link","25",{"rel":"icon","href":"/favicon.ico"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]]
+8:null
